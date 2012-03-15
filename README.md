@@ -1,5 +1,5 @@
 # MATLAB FS12 – Research Plan (Template)
-(text between brackets to be removed)
+(text between brackets to be removedd)
 
 > * Group Name: (be creative!)
 > * Group participants names: (alphabetically sorted by last name)
