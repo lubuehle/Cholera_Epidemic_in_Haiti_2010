@@ -32,11 +32,12 @@ We expect to produce the best result when using the newspaper reports [3] as sta
 
 ## References 
 
-< 1. Wikipedia. 2010–2011 Haiti cholera outbreak.   http://en.wikipedia.org/wiki/2010%E2%80%932011_Haiti_cholera_outbreak. 15.03.2012.
-< 2. Tuite AR, Tien J, Eisenberg M, Earn DJD, Ma J, Fisman DN. 2011. Cholera Epidemic in Haiti, 2010: Using a Transmission Model to Explain Spatial Spread of Disease and Identify Optimal Control Interventions. Annals of Internal Medicine 154:593-601.
-< 3. Bigg M. U.N. peacekeepers likely caused Haiti cholera. http://www.reuters.com/article/2011/06/30/us-haiti-cholera-idUSTRE75T4O220110630. 18.03.2012.
-< 4. Hendriksen RS, Price LB, Schupp JM, Gillece JD, Kaas RS, Engelthaler DM, Bortolaia V, Pearson T, Waters AE, Upadhyay BP, Shrestha SD, Adhikari S, Shakya G, Keim PS, Aarestrup FM. 2011. Population Genetics of Vibrio cholera from Nepal in 2010: Evidence on the Origin of the Haitian Outbreak. mBio 2(4):e00157-11.
-< 5. Tien JH, Earn DJD. 2010. Multiple Transmission Pathways and Disease Dynamics in a Waterborne Pathogen Model. Bulletin of Mathematical Biology 72: 1506-1533.
+1. Wikipedia. 2010–2011 Haiti cholera outbreak.   http://en.wikipedia.org/wiki/2010%E2%80%932011_Haiti_cholera_outbreak. 15.03.2012.
+2. Tuite AR, Tien J, Eisenberg M, Earn DJD, Ma J, Fisman DN. 2011. Cholera Epidemic in Haiti, 2010: Using a Transmission Model to Explain Spatial Spread of Disease and Identify Optimal Control Interventions. Annals of Internal Medicine 154:593-601.
+3. Bigg M. U.N. peacekeepers likely caused Haiti cholera. http://www.reuters.com/article/2011/06/30/us-haiti-cholera-idUSTRE75T4O220110630. 18.03.2012.
+4. Hendriksen RS, Price LB, Schupp JM, Gillece JD, Kaas RS, Engelthaler DM, Bortolaia V, Pearson T, Waters AE, Upadhyay BP, Shrestha SD, Adhikari S, Shakya G, Keim PS, Aarestrup FM. 2011. Population Genetics of Vibrio cholera from Nepal in 2010: Evidence on the Origin of the Haitian Outbreak. mBio 2(4):e00157-11.
+5. Tien JH, Earn DJD. 2010. Multiple Transmission Pathways and Disease Dynamics in a Waterborne Pathogen Model. Bulletin of Mathematical Biology 72: 1506-1533.
+
 Possible extensions to the model from Tuite et al. (2011) are the introduction of specific parameters for infections from compartment to compartment taking into account main public transportation routes and waterways. Tuite et al. (2011) used best-fit values for this parameter which should lead to better results but it makes it more difficult to predict the course of another disease with the same model.
 
 ## Research Methods
