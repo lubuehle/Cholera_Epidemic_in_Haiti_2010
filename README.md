@@ -2,7 +2,7 @@
 
 > * Group Name: El Tor
 > * Group participants names: Borer Benedict, Bühler Lukas, Plüss Benjamin, Stocker Nicolas
-> * Project Title: Modeling the Cholera Epidemic in Haiti 2010-11
+> * Project Title: Modeling the Cholera Epidemic in Haiti 2010-2011 
 
 ## General Introduction
 
