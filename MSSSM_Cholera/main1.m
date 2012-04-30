@@ -36,7 +36,6 @@ fclose(susceptible1);
 
 susceptible_data = csvread('Susceptible_data.csv');
 
-plot(infectious_data(3,:))
 
 
 
@@ -56,7 +55,7 @@ phip = csvread('Phip_data.csv');
 %Initialise all coefficients and parameters
 
 %Amount of days calculated
-t=31;
+t=92;
 
 %Amount of districts Haiti is divided into
 d=10;
@@ -69,7 +68,7 @@ mu=ones(10,1)*0.0278;
 
 gamma=ones(10,1)*0.345;
 
-epsilon=ones(10,1)*0.16;
+epsilon=ones(10,1)*0.014;
 
 betax=ones(10,1)*0.010;
 
@@ -96,9 +95,10 @@ s(:,1)=susceptible_data(:,1);
 
 x(:,1)=infectious_data(:,1);
 
-r(:,1)=zeros(10,1);
+r(:,1)=removed_data(:,1);
 
 w(:,1)=zeros(10,1);
+
 
 %Set the phip and phiw (force of infection)
    
@@ -113,7 +113,7 @@ phiw= [1 1 1 1 1 1 1 1 1 1;
        9 9 9 9 9 9 9 9 9 9;
        10 10 10 10 10 10 10 10 10 10];
 
-phip * x(:,2);
+
 
 
 
@@ -136,15 +136,39 @@ for p=2:t
    
 end
 
+smeanmod=mean(s);
+xmeanmod=mean(x);
+rmeanmod=mean(r);
+
+
+smean=mean(susceptible_data);
+xmean=mean(infectious_data);
+rmean=mean(removed_data);
 
 
 
-plot(x(3,:))
+
+
+%Plot of mean daisy area versus time
+figure(1)
+subplot(1,1,1)
+plot(smeanmod,'k-', 'LineWidth', 2)
+hold on;
+plot(xmeanmod, 'g-', 'LineWidth', 2)
+hold on;
+plot(rmeanmod, 'r:', 'LineWidth', 2)
+hold on;
+xlabel('Time')
+ylabel('Mean planetary daisy area')
+legend('Susceptible', 'Infectious', 'Removed', 2)
+title('Calculations of model')
 
 
 
+r(:,1)
 
+s(:,1)
 
+x(:,1)
 
-
-
+mean(r)

@@ -25,10 +25,25 @@ removed_data = csvread('Removed_data.csv');
 
 
 % Loading the visible data
-visible0 = fopen('Visible_data_semikolon.csv','r');
-visible1 = fopen('Visible_data.csv','w');
-fwrite(visible1,strrep(char(fread(visible0))',';',','));
-fclose(visible0);
-fclose(visible1);
+susceptible0 = fopen('Susceptible_data_semikolon.csv','r');
+susceptible1 = fopen('Susceptible_data.csv','w');
+fwrite(susceptible1,strrep(char(fread(susceptible0))',';',','));
+fclose(susceptible0);
+fclose(susceptible1);
 
-visible_data = csvread('Visible_data.csv');
+susceptible_data = csvread('Susceptible_data.csv');
+
+plot(infectious_data(3,:))
+
+
+
+% Loading the PHIp values
+phip0 = fopen('Phip_data_semikolon.csv','r');
+phip1 = fopen('Phip_data.csv','w');
+fwrite(phip1,strrep(char(fread(phip0))',';',','));
+fclose(phip0);
+fclose(phip1);
+
+phip = csvread('Phip_data.csv');
+
+
