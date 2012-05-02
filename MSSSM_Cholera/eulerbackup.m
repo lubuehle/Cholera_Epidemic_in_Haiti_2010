@@ -1,4 +1,4 @@
-function [s,x, r]=euler(s,x,r, lambda, gamma, mu);
+function [s,x, r,w]=euler(s,x,r,w, mu, lambda, gamma, epsilon);
 %WATERQUAL Summary of this function goes here
 %   Detailed explanation goes here
 
@@ -18,7 +18,7 @@ function [s,x, r]=euler(s,x,r, lambda, gamma, mu);
 
 
 %Calculations for the variable susceptible
-ds=mu-lambda.*s-mu.*s;
+ds=mu-mu.*s-lambda.*s;
 
 s=s+ds;
 
@@ -38,6 +38,14 @@ r=r+dr;
 
 %r=1-s-x;
 
+
+
+%Calculations for the variable waterquality
+
+
+dw=epsilon.*(x-w);
+
+w=w+dw;
 
 
 
