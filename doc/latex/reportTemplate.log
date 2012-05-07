@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  7 MAY 2012 15:49
+=======
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  7 MAY 2012 15:48
+>>>>>>> 292b93c314fb2ae14604bcd346e7a2625be75745
 entering extended mode
 **reportTemplate.tex
 
@@ -218,8 +222,14 @@ LaTeX Info: Redefining \] on input line 2667.
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
+<<<<<<< HEAD
 (C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
 ithub\doc\latex\reportTemplate.aux)
+=======
+(./reportTemplate.aux)
+\openout1 = `reportTemplate.aux'.
+
+>>>>>>> 292b93c314fb2ae14604bcd346e7a2625be75745
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
@@ -311,9 +321,14 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )) [1
 
+<<<<<<< HEAD
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Nicolas/Document
 s/Umweltnaturwissenschaften/6Semester/Cholera_Haiti/Github/doc/latex/ETHlogo-ep
 s-converted-to.pdf>]
+=======
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ETHlo
+go-eps-converted-to.pdf>]
+>>>>>>> 292b93c314fb2ae14604bcd346e7a2625be75745
 Overfull \hbox (5.3226pt too wide) in paragraph at lines 46--64
  [] 
  []
@@ -394,6 +409,7 @@ Here is how much of TeX's memory you used:
  106685 words of memory out of 3000000
  6478 multiletter control sequences out of 15000+200000
  12457 words of font info for 48 fonts, out of 3000000 for 9000
+<<<<<<< HEAD
  715 hyphenation exceptions out of 8191
  42i,10n,24p,729b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/p
@@ -402,6 +418,17 @@ sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 Output written on reportTemplate.pdf (6 pages, 208134 bytes).
+=======
+ 831 hyphenation exceptions out of 8191
+ 42i,10n,24p,728b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti12.pfb>
+Output written on reportTemplate.pdf (6 pages, 203466 bytes).
+>>>>>>> 292b93c314fb2ae14604bcd346e7a2625be75745
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
