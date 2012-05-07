@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  2 MAY 2012 16:36
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  7 MAY 2012 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -224,8 +224,8 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.11 ^^M
-        
+l.11 \DeclareGraphicsRule
+                         {.tif}{png}{.png}{`convert #1 `dirname #1`/`basenam...
 *** (cannot \read from terminal in nonstop modes)
 
  
