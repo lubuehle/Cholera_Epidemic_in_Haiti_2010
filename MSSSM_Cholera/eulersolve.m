@@ -1,4 +1,4 @@
-function [s,x, r,w]=eulersolve(s,x,r,w, mu, lambdasolveloop, gammasolveloop, epsilonsolveloop);
+function [s,x, r]=eulersolve(s,x,r, lambdasolveloop, gammasolveloop, musolveloop);
 %WATERQUAL Summary of this function goes here
 %   Detailed explanation goes here
 
@@ -18,57 +18,29 @@ function [s,x, r,w]=eulersolve(s,x,r,w, mu, lambdasolveloop, gammasolveloop, eps
 
 
 %Calculations for the variable susceptible
-ds=mu-mu.*s-lambdasolveloop.*s;
+ds=musolveloop-lambdasolveloop.*s-musolveloop.*s;
 
 s=s+ds;
 
-if s>=1
-    s=1;
-end
-
-if s<=0
-    s=0;
-end
 
 
 %Calculations for the variable infectious
-dx=-gammasolveloop.*x+lambdasolveloop.*s-mu.*x;
+dx=-gammasolveloop.*x+lambdasolveloop.*s-musolveloop.*x;
 
 x=x+dx;
-
-if x>=1
-    x=1;
-end
-
-if x<=0
-    x=0;
-end
 
 %Calculations for the variable recovered
 
 
-%dr=gammasolveloop.*r-mu.*r;
+dr=gammasolveloop.*x-musolveloop.*r;
 
-%r=r+dr;
+r=r+dr;
 
-r=1-s-x;
-
-if r>=1
-    r=1;
-end
-
-if r<=0
-    r=0;
-end
+%r=1-s-x;
 
 
 
-%Calculations for the variable waterquality
 
-
-dw=epsilonsolveloop.*(x-w);
-
-w=w+dw;
 
 
 
