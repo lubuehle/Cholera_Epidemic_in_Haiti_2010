@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  7 MAY 2012 16:02
+=======
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  9 MAY 2012 12:32
+>>>>>>> synch folder
 entering extended mode
 **reportTemplate.tex
 
@@ -394,6 +398,7 @@ Here is how much of TeX's memory you used:
  106685 words of memory out of 3000000
  6478 multiletter control sequences out of 15000+200000
  12457 words of font info for 48 fonts, out of 3000000 for 9000
+<<<<<<< HEAD
  715 hyphenation exceptions out of 8191
  42i,10n,24p,729b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/p
@@ -402,6 +407,17 @@ sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 Output written on reportTemplate.pdf (6 pages, 208468 bytes).
+=======
+ 831 hyphenation exceptions out of 8191
+ 42i,10n,24p,728b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti12.pfb>
+Output written on reportTemplate.pdf (6 pages, 203515 bytes).
+>>>>>>> synch folder
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
