@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  14 MAY 2012 15:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  14 MAY 2012 15:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -222,29 +222,19 @@ LaTeX Info: Redefining \] on input line 2667.
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2008/07/06 v3.8l The Babel package
+(./reportTemplate.aux
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/ngermanb.ldf
-Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+! Package babel Error: You haven't loaded the option ngerman yet.
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2008/07/06 v3.8l Babel common definitions
-\babel@savecnt=\count105
-\U@D=\dimen124
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \select@language{ngerman}
+                             
+You may proceed, but expect unexpected results
+
 )
-\l@naustrian = a dialect from \language\l@ngerman 
-Package babel Info: Making " an active character on input line 92.
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks23
-\inpenc@posthook=\toks24
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/applemac.def
-File: applemac.def 2008/03/30 v1.1d Input encoding file
-))
-(./reportTemplate.aux)
 \openout1 = `reportTemplate.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -296,18 +286,18 @@ LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen125
+\scratchcounter=\count105
+\scratchdimen=\dimen124
 \scratchbox=\box29
-\nofMPsegments=\count107
-\nofMParguments=\count108
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen126
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
-\everyMPtoPDFconversion=\toks26
-)
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen125
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks24
+) (./cover.tex
 Package epstopdf Info: Source file: <ETHlogo.eps>
 (epstopdf)                    date: 2012-03-12 16:54:13
 (epstopdf)                    size: 179075 bytes
@@ -316,456 +306,127 @@ Package epstopdf Info: Source file: <ETHlogo.eps>
 (epstopdf)                    size: 14336 bytes
 (epstopdf)             Command: <repstopdf --outfile=ETHlogo-eps-converted-to.p
 df ETHlogo.eps>
-(epstopdf)             \includegraphics on input line 27.
+(epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
  <ETHlogo-eps-converted-to.pdf, id=1, 179.67125pt x 45.16875pt>
 File: ETHlogo-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ETHlogo-eps-converted-to.pdf>
-Package pdftex.def Info: ETHlogo-eps-converted-to.pdf used on input line 27.
+Package pdftex.def Info: ETHlogo-eps-converted-to.pdf used on input line 5.
 (pdftex.def)             Requested size: 142.26378pt x 35.76698pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 56.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 56.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
-Overfull \hbox (546.86478pt too wide) in paragraph at lines 56--64
- [][] 
- []
-
-[1
+)) [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ETHlo
 go-eps-converted-to.pdf>]
-Overfull \hbox (5.3226pt too wide) in paragraph at lines 119--137
+Overfull \hbox (5.3226pt too wide) in paragraph at lines 46--64
  [] 
  []
 
-[2] (./reportTemplate.toc)
+[2] (./reportTemplate.toc
+
+! Package babel Error: You haven't loaded the option ngerman yet.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \select@language {ngerman}
+                              
+You may proceed, but expect unexpected results
+
+)
 \tf@toc=\write3
 \openout3 = `reportTemplate.toc'.
 
- [3]
-<Bilder/KarteHaiti.png, id=19, 226.9278pt x 243.7908pt>
+ [3] <Bilder/KarteHaiti.png, id=19, 226.9278pt x 243.7908pt>
 File: Bilder/KarteHaiti.png Graphic file (type png)
 
 <use Bilder/KarteHaiti.png>
-Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 168.
+Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 95.
 (pdftex.def)             Requested size: 181.54247pt x 195.0329pt.
 
-Overfull \hbox (39.27869pt too wide) in paragraph at lines 168--169
+Overfull \hbox (39.27869pt too wide) in paragraph at lines 95--96
 [][] 
  []
 
+
+Underfull \hbox (badness 3250) in paragraph at lines 96--96
+[]\OT1/cmr/m/n/10.95 Figure 1: Hier steht die
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
 [4 <./Bilder/KarteHaiti.png>]
-Overfull \hbox (1.69968pt too wide) in paragraph at lines 191--197
-\OT1/cmr/m/n/12 Cholera is a bac-te-ri-al in-fec-ti-on cau-sed by a bac-te-ri-u
-m na-med as [][]A^^SuVibro cholerae[][]A^^Ru.
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.198 ...al , especially the slum district ‚ÄúCit√
-                                                  © Soleil‚Äù . In the follo...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-<recently read> }
-                 
-l.198 ...al , especially the slum district ‚ÄúCit√
-                                                  © Soleil‚Äù . In the follo...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 198.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 198.
-
-
-LaTeX Warning: Command \quotesinglbase invalid in math mode on input line 198.
-
-! Improper \spacefactor.
-\save@sf@q ...@SF {\spacefactor \the \spacefactor 
-                                                  }#1\@SF \endgroup 
-l.198 ...cially the slum district ‚ÄúCit√© Soleil‚
-                                                  Äù . In the following days...
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! You can't use `\spacefactor' in math mode.
-\@SF ->\spacefactor 
-                    0
-l.198 ...cially the slum district ‚ÄúCit√© Soleil‚
-                                                  Äù . In the following days...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 198.
-
-! Please use \mathaccent for accents in math mode.
-<recently read> \accent 
-                        
-l.198 ...ially the slum district ‚ÄúCit√© Soleil‚Ä
-                                                  ù . In the following days ...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! Missing { inserted.
-<to be read again> 
-                   \fontdimen 
-l.198 ...ially the slum district ‚ÄúCit√© Soleil‚Ä
-                                                  ù . In the following days ...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 198.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.198 ...ally the slum district ‚ÄúCit√© Soleil‚Äù
-                                                   . In the following days C...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.198 ...ally the slum district ‚ÄúCit√© Soleil‚Äù
-                                                   . In the following days C...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \quotesinglbase invalid in math mode on input line 198.
-
-! Improper \spacefactor.
-\save@sf@q ...@SF {\spacefactor \the \spacefactor 
-                                                  }#1\@SF \endgroup 
-l.198 ...les. The tragedy of Haiti is not only a ‚
-                                                  Äúsimple‚Äù earthquake; it...
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! You can't use `\spacefactor' in math mode.
-\@SF ->\spacefactor 
-                    0
-l.198 ...les. The tragedy of Haiti is not only a ‚
-                                                  Äúsimple‚Äù earthquake; it...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 198.
-
-! Please use \mathaccent for accents in math mode.
-<recently read> \accent 
-                        
-l.198 ...es. The tragedy of Haiti is not only a ‚Ä
-                                                  úsimple‚Äù earthquake; it ...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! Missing { inserted.
-<to be read again> 
-                   \fontdimen 
-l.198 ...es. The tragedy of Haiti is not only a ‚Ä
-                                                  úsimple‚Äù earthquake; it ...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 198.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.198 ...s. The tragedy of Haiti is not only a ‚Äú
-                                                  simple‚Äù earthquake; it i...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.198 ...s. The tragedy of Haiti is not only a ‚Äú
-                                                  simple‚Äù earthquake; it i...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \quotesinglbase invalid in math mode on input line 198.
-
-! Improper \spacefactor.
-\save@sf@q ...@SF {\spacefactor \the \spacefactor 
-                                                  }#1\@SF \endgroup 
-l.198 ...tragedy of Haiti is not only a ‚Äúsimple‚
-                                                  Äù earthquake; it is more ...
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! You can't use `\spacefactor' in math mode.
-\@SF ->\spacefactor 
-                    0
-l.198 ...tragedy of Haiti is not only a ‚Äúsimple‚
-                                                  Äù earthquake; it is more ...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 198.
-
-! Please use \mathaccent for accents in math mode.
-<recently read> \accent 
-                        
-l.198 ...ragedy of Haiti is not only a ‚Äúsimple‚Ä
-                                                  ù earthquake; it is more a...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! Missing { inserted.
-<to be read again> 
-                   \fontdimen 
-l.198 ...ragedy of Haiti is not only a ‚Äúsimple‚Ä
-                                                  ù earthquake; it is more a...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 198.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.198 ...agedy of Haiti is not only a ‚Äúsimple‚Äù
-                                                   earthquake; it is more a ...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.198 ...agedy of Haiti is not only a ‚Äúsimple‚Äù
-                                                   earthquake; it is more a ...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \quotesinglbase invalid in math mode on input line 200.
-
-! Improper \spacefactor.
-\save@sf@q ...@SF {\spacefactor \the \spacefactor 
-                                                  }#1\@SF \endgroup 
-l.200 ...rstanding of the interaction of a human ‚
-                                                  Äì environment interaction...
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! You can't use `\spacefactor' in math mode.
-\@SF ->\spacefactor 
-                    0
-l.200 ...rstanding of the interaction of a human ‚
-                                                  Äì environment interaction...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 200.
-
-! Please use \mathaccent for accents in math mode.
-<recently read> \accent 
-                        
-l.200 ...standing of the interaction of a human ‚Ä
-                                                  ì environment interaction ...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! Missing { inserted.
-<to be read again> 
-                   \fontdimen 
-l.200 ...standing of the interaction of a human ‚Ä
-                                                  ì environment interaction ...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \` invalid in math mode on input line 200.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.200 ...tanding of the interaction of a human ‚Äì
-                                                   environment interaction a...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! Missing { inserted.
-<to be read again> 
-                   \begingroup 
-l.200 ...tanding of the interaction of a human ‚Äì
-                                                   environment interaction a...
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-LaTeX Warning: Command \i invalid in math mode on input line 200.
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.200 ...tanding of the interaction of a human ‚Äì
-                                                   environment interaction a...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.201 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.201 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.201 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.201 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.201 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.201 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no Ë in font cmex10!
-Missing character: There is no Ë in font cmex10!
-Missing character: There is no Ë in font cmex10!
-Missing character: There is no Ë in font cmex10!
-
-Overfull \hbox (3032.91156pt too wide) in paragraph at lines 198--201
-\OT1/cmr/m/n/12 the Ca-pi-tal , espe-ci-al-ly the slum dis-trict [][]A^^SuCit$[
-] []\OML/cmm/m/it/12 Soleil[]\OT1/cmr/m/n/12 0[]$ 
- []
-
-[5] [6] (./reportTemplate.aux) )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 198 ({)
-### bottom level 
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [5] [6] (./reportTemplate.aux) ) 
 Here is how much of TeX's memory you used:
- 3646 strings out of 493633
- 48519 string characters out of 3143378
- 117856 words of memory out of 3000000
- 6872 multiletter control sequences out of 15000+200000
+ 3247 strings out of 493633
+ 43319 string characters out of 3143378
+ 107561 words of memory out of 3000000
+ 6490 multiletter control sequences out of 15000+200000
  12457 words of font info for 48 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  42i,10n,24p,728b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
-2.pfb>
-Output written on reportTemplate.pdf (6 pages, 227142 bytes).
+</usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti12.pfb>
+Output written on reportTemplate.pdf (6 pages, 203494 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
