@@ -9,8 +9,8 @@
 \usepackage{amssymb, amsmath}
 \usepackage{wrapfig}
 \usepackage{apacite}
-
-
+\usepackage{amsmath}
+\usepackage{empheq}
 
 
 %\title{Title}
@@ -110,8 +110,9 @@
 
 
 \section{Abstract}
-
-
+\citep{tien:1982}
+\citep{neu1}
+\citep{Kermack:1927}
 \section{Individual contributions}
 
 \section{Introduction and Motivations}
@@ -258,9 +259,124 @@ $ R_{t}=\dfrac{R_{0}}{(1+f)^{t}} $
 Here $ f $ is a discount factor.
 (Tuite et al.)
 
+
 \section{Implementation}
+In this section we will mostly explain the implementation of the SIR model in Matlab. To explain why we decided on the SIR and not the SIWR model, we will also look at some of the difficulties of implementing the SIWR model.
+
+\subsection{Problems with rescaling}
+We first tried to rescale our model as explained by Tien and Earn. It seems though, that their rescaled model equations are somewhat paradox. Here are the rescaled model equations as described by Tien and Earn:
+
+
+\begin{empheq}[left=\empheqlbrace]{align}
+\.{s} = \mu - \beta_{w} sw -  \beta_{x} sx - \mu s            \label{eq:tien_susceptible} \\
+\.{x} = \beta_{w} sw +  \beta_{x} si - \gamma x - \mu x       \label{eq:tien_infectious} \\
+\.{r} = \gamma i - \mu r                                      \label{eq:tien_removed} \\
+\.{w} = \xi (x-s)                                             \label{eq:tien_water}
+\end{empheq}
+
+Looking at the dimensions of equation \eqref{eq:tien_susceptible} there already seems to be some contradiction. The dimension of $\.{s}$,s,i and r is $km^{-2}$. The dimension of $\mu$, $\beta_{w}$ and $\beta_{i}$ is declared as $day^{-1}$. This shows that the dimensions on the left and right side of the equation can not be the same. Because of this we decided to let our susceptible, infectious and removed compartments have the dimension of percentages. As a consequence, we do not know what dimensions our coefficients have (e.g. $day^{-1}$ or $cells*ml^{-3}$). We will not be able to make the same conclusions as XXXX. Mainly we will be able to make qualitative statements about the proportions of transmission caused by the local population versus the interdepartemential transmission.
+
+
+
+
+\subsection{Data from the MSPP}
+We collected the raw data from the Ministère de la Santé Publique et de la Population de la Republique d'Haiti (MSPP) CITE. To get our ten districts, we added the numbers from Port au Prince to the departement Ouest. In total we collected the data for 92 days (the months November, December and January 2010) and ten different districts. To compare the original data to the model output we need the amount of susceptible, infectious and removed in each department. Whilst extracting all the data we found some inconsistencies within the data sheets themselves. For this reason we chose to take the data from what we considered the most reliable on the sheets (mainly the data from hospitals). The infectious data was taken directly from the data sheets as the number of hospitalisations. The removed data is the sum of deaths in hospital and healed. The susceptible data was calculated as the total population minus the infectious and removed. All the values were divided by the respective total population to receive the percentages.\\
+One of the bigger problems with the SIWR model is the lack of knowledge about cholera and the water quality during the epidemic. Because we found no data available in the internet and XXX don't cite any source for their data, we started out by setting all the values for the water quality on day one to zero. The amount of cholera bacteria would rise due to the bacterial shedding rate from the infected to the water compartment. After some trial runs we discovered that the SIWR model is extremely sensitive to changes in the initial conditions of the water quality. This was one of the main reasons we decided to use the SIR model. Continuing with the SIWR model would result in a high uncertainity about the variability caused by the false initial conditions of the water quality versus the parameters fitted by the solver.
+
+
+
+
+
+
+\subsection{Differential equations}
+In order to observe intercompartimental transmission, we used the same modification as XXX in their SIWR model. The force of infection $\lambda$ in the \textit{i}th district is:
+
+\begin{equation}
+\lambda_{i} = \beta_{Xi} x + \sum\limits_{j=0}^I  \Theta_{ij}  x_{j}
+\label{eq:lambda}
+\end{equation}
+
+The influence of infection of the jth path on the ith patch $\Theta$ is calculated the same way as XXX.
+Also as stated by XXXXX, within the short time period that we observe the natural birth/death rate is of no significance CITE. This reduces our SIR model equations to:
+
+\begin{empheq}[left=\empheqlbrace]{align}
+\.{s} = - \lambda s                \label{eq:sir_susceptible} \\
+\.{x} = \lambda s - \gamma x       \label{eq:sir_infectious} \\
+\.{r} = \gamma x                   \label{eq:sir_removed}
+\end{empheq}
+
+The benefit of this simplified model is that we only need to fit a few coefficients. As a consequence, our fit will most probably be worse than the fit by the SIWR model. 
+
+
+\subsection{Creation of the solver}
+\label{sec:creation of the solver}
+
+
+
+Our goal was to build a solver which, starting from our given initial conditions, tries to find the optimal values of the coefficients to reduce the sum of the squared residuals (SSQ). The SSQ is calculated by squaring the difference of the predicted percentage of a compartment (e.g. susceptible, infected or removed) and the observed data and summing them up over all days and districts. The solver would stop calculating if either the difference of the two following sum of squares was smaller than 0.001\% or if the solver has calculated more than 1000 cycles. This was introduced to exclude any infinite loops. In each cycle of the solver all the coefficients were slightly increased and decreased by 1\% of its value. These modified coefficients were then combined to create all possible scenarios. This results in $2^{k}$ scenarios where k is the number of coefficients that need to be fitted. Because of our simpflification to the model we only needed to fit $\kappa$,$\beta_{x}$ and $\gamma$. In each cycle our solver calculated 8 different scenarios. Table \ref{tab:solverbuild} shows the different scenarios calculated.
+
+
+
+\begin{table}[htb]
+\caption{Table with the 8 scenarios, + representing a 1\% increase and - a 1\% decrease of the coefficient }
+\centering
+\begin{tabular}{|c|c|c|}
+\hline 
+$\kappa$ & $\beta_{x}$ & $\gamma$ \\ 
+\hline 
++ & + & + \\ 
+\hline 
++ & + & - \\ 
+\hline 
++ & - & + \\ 
+\hline 
++ & - & - \\ 
+\hline 
+- & + & + \\ 
+\hline 
+- & + & - \\ 
+\hline 
+- & - & + \\ 
+\hline 
+- & - & - \\ 
+\hline 
+\end{tabular} 
+\label{tab:solverbuild}
+\end{table}
+
+
+
+
+The solver computes the SSQ starting with these new coefficients and chooses the ones where the SSQ was reduced the most. The next cycle is then started with these coefficients.\\
+We decided to build our own solver mainly for two reasons:
+
+\begin{enumerate}
+\item We did not find any adequate solver in the internet for the format of our data
+\item We thought it might be an interesting challenge to build one ourselves as a learning experience
+\end{enumerate}
+
+Because this is not an established solver there are a few things one has to keep in mind. We tested the consistency of the solver by running the program up to 50 times with the same initial conditions. In each case the result was the same. To test the sensitivity of the solver to different initial conditions we let the whole program run with different starting values of coefficients. This is explained in section \ref{sec:initial conditions}. Another weakness of the solver is that it never lets a parameter stay the same but either increases or decreases its value. This could be excluded by adding a third scenario value, where the parameter does not change. The formula for the total amount of scenarios is $scenarios=n^{k}$ where n is the number of different value changes and k the number of coefficients being fitted. This can result in a large amount of calculations. We decided that the possible inaccuracy of 1\% of the coefficients has a small effect on the overall fit and proceeded with only two value changes in the solver.
+
+
+
+
+
+
+
+
+
+
+\subsection{Initial conditions}
+\label{sec:initial conditions}
+In our model we not only have initial conditions for the compartments suceptible, infected and removed, but also for the coefficients fitted by the solver. The starting values for the compartments were simply taken from the observed data day 1 (so 1st November 2010). The coefficients of the model were estimated preliminary by simple nonlinear parameter fitting. Based on these calculations we defined an intervall of possible values for $\kappa$,$\beta_{x}$ and $\gamma$. Because we decided on a different rescaling method we could not rely on the parameter values given by XXXXX. Similar to the method used in our solver we created different scenarios with all the combinations of starting values. This resultet in $4^{3}=64$ different scenarios. To calculate the final model we chose the coefficients from the scenario with the smallest overall SSQ.
+
 
 \section{Simulation Results and Discussion}
+
+\subsection{Results of the SIR model}
+
+\subsection{Comparison with original data}
+
 
 \section{Summary and Outlook}
 
@@ -275,10 +391,10 @@ Regarding to the mass media campaign, it seems helpful to know how the cholera b
 Our model needs more detail information, which nowadays are not available. Hence we recommend a research during an epidemic with the aim to collect data of the consumation and quality of the water. In our case it would be helpful to know the quantity, localisation and exact time of an output (?) from water out of a contamined (?) river.
 
 We belive such a dataset would highly improve the possibility of modelling a system like a cholera epidemic like that one in Haiti 2010.
-
+\newpage
 \section{References}
-
-\bibliography{references/ref.bib}
+\bibliographystyle{plain}
+\bibliography{references/ref_cholera.bib}
 
 
 
