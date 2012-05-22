@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  20 MAY 2012 22:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  22 MAY 2012 13:56
 entering extended mode
 **reportTemplate.tex
 
@@ -219,6 +218,189 @@ LaTeX Info: Redefining \] on input line 2667.
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
+Package: apacite 2012/02/25 v6.01 APA citation
+
+! Undefined control sequence.
+l.1196              \st@rtbibchapter
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Too many }'s.
+l.1198           }
+                  %
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+l.1199        }
+               %
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Undefined control sequence.
+l.1200        {\if@sectionbib
+                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1201           \st@rtbibsection
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \else.
+l.1202         \else
+                    
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+l.1203           \st@rtbibchapter
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \fi.
+l.1204         \fi
+                  
+I'm ignoring this; it doesn't match any \if.
+
+! Too many }'s.
+l.1206     }
+            %
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Undefined control sequence.
+l.1207   \bibliographytypesize
+                               % e.g., to put the bibliography in \small type
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1208   \bibliographyprenote
+                               % some explanatory note before the references
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> APAC@metaprenote@\APAC@extra@b@citeb 
+                                                
+l.1209 ...ed{APAC@metaprenote@\APAC@extra@b@citeb}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelsep =\biblabelsep 
+                                   \parsep =\bibparsep \itemsep =\bibitemsep...
+l.1216                 \itemindent=\bibindent}
+                                              % changed to cope with 4th ed.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1216                 \itemindent=\bibindent}
+                                              % changed to cope with 4th ed.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> ...p =\biblabelsep \parsep =\bibparsep 
+                                                  \itemsep =\bibitemsep \lef...
+l.1216                 \itemindent=\bibindent}
+                                              % changed to cope with 4th ed.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...p =\bibparsep \itemsep =\bibitemsep 
+                                                  \leftmargin =\bibleftmargi...
+l.1216                 \itemindent=\bibindent}
+                                              % changed to cope with 4th ed.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...itemsep \leftmargin =\bibleftmargin 
+                                                  \itemindent =\bibindent 
+l.1216                 \itemindent=\bibindent}
+                                              % changed to cope with 4th ed.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1220    \bt@beg@thb@hook
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1221    \APACrestorebibitem
+                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Too many }'s.
+l.1222 }
+        
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+\c@BibCnt=\count105
+\bibleftmargin=\skip48
+\bibindent=\skip49
+\bibparsep=\skip50
+\bibitemsep=\skip51
+\biblabelsep=\skip52
+)
 (C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
 ithub\doc\latex\reportTemplate.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -270,20 +452,38 @@ LaTeX Font Info:    ... okay on input line 20.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
+\scratchcounter=\count106
 \scratchdimen=\dimen124
 \scratchbox=\box29
-\nofMPsegments=\count106
-\nofMParguments=\count107
+\nofMPsegments=\count107
+\nofMParguments=\count108
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count108
+\MPscratchCnt=\count109
 \MPscratchDim=\dimen125
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
 \everyMPtoPDFconversion=\toks24
+)
+\c@maskedRefs=\count112
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
+File: english.apc 2012/02/25 v6.01 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
 )
 (C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
 ithub\doc\latex\cover.tex
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 Package epstopdf Info: Source file: <ETHlogo.eps>
 (epstopdf)                    date: 2012-04-30 16:45:49
 (epstopdf)                    size: 179075 bytes
@@ -294,7 +494,6 @@ Package epstopdf Info: Source file: <ETHlogo.eps>
 f ETHlogo.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
-
 <ETHlogo-eps-converted-to.pdf, id=1, 179.67125pt x 45.16875pt>
 File: ETHlogo-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -315,12 +514,12 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Nicolas/Document
 s/Umweltnaturwissenschaften/6Semester/Cholera_Haiti/Github/doc/latex/ETHlogo-ep
 s-converted-to.pdf>]
-Overfull \hbox (5.3226pt too wide) in paragraph at lines 46--65
+Overfull \hbox (102.70229pt too wide) in paragraph at lines 46--65
  [] 
  []
 
 
-Overfull \hbox (5.3226pt too wide) in paragraph at lines 70--89
+Overfull \hbox (102.70229pt too wide) in paragraph at lines 70--89
  [][] 
  []
 
@@ -329,21 +528,29 @@ Overfull \hbox (5.3226pt too wide) in paragraph at lines 70--89
 ithub\doc\latex\reportTemplate.toc)
 \tf@toc=\write3
  [3]
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 120.
+
 <Bilder/KarteHaiti.png, id=18, 226.9278pt x 243.7908pt>
 File: Bilder/KarteHaiti.png Graphic file (type png)
 
 <use Bilder/KarteHaiti.png>
-Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 120.
+Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 121.
 (pdftex.def)             Requested size: 181.54247pt x 195.0329pt.
 
-Overfull \hbox (39.27869pt too wide) in paragraph at lines 120--121
+Overfull \hbox (39.27869pt too wide) in paragraph at lines 121--122
 [][] 
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 121--121
+Underfull \hbox (badness 3250) in paragraph at lines 122--122
 []\OT1/cmr/m/n/10.95 Figure 1: Hier steht die
  []
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 12
+4.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -351,6 +558,32 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 12
+8.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 13
+2.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 13
+8.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[4]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 14
+4.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -360,17 +593,10 @@ Missing character: There is no ù in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[4 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera_Hait
-i/Github/doc/latex/Bilder/KarteHaiti.png>]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 15
+1.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -391,246 +617,181 @@ Missing character: There is no ù in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
+[5]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 15
+6.
 
 
-LaTeX Warning: File `flow diagram SIWR.jpg' not found on input line 185.
-
-<flow diagram SIWR.jpg, id=25, 732.93825pt x 470.9595pt>
-File: flow diagram SIWR.jpg Graphic file (type jpg)
-
-<use flow diagram SIWR.jpg>
-Package pdftex.def Info: flow diagram SIWR.jpg used on input line 185.
-(pdftex.def)             Requested size: 732.93646pt x 470.95834pt.
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 15
+8.
 
 
-LaTeX Warning: File `figure model haiti.jpg' not found on input line 228.
-
-<figure model haiti.jpg, id=26, 732.93825pt x 470.9595pt>
-File: figure model haiti.jpg Graphic file (type jpg)
-
-<use figure model haiti.jpg>
-Package pdftex.def Info: figure model haiti.jpg used on input line 228.
-(pdftex.def)             Requested size: 732.93646pt x 470.95834pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 X\OT1/cmr/m/n/12 (\OM
-L/cmm/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 (\OML/cmm/m/i
-t/12 t\OT1/cmr/m/n/12 )$
+Underfull \hbox (badness 2726) in paragraph at lines 168--176
+\OT1/cmr/m/n/12 ple have ei-ther died from the dis-ease or they have re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 X\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT
-1/cmr/m/n/12 )\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n
-/12 ) \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 X\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t
-\OT1/cmr/m/n/12 )$
+Underfull \hbox (badness 3019) in paragraph at lines 168--176
+\OT1/cmr/m/n/12 cov-ered and as a re-sult are per-fectly im-mune now. Ei-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 X\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT
-1/cmr/m/n/12 )$
+Underfull \hbox (badness 3568) in paragraph at lines 168--176
+\OT1/cmr/m/n/12 ther way they are no longer can-di-dates to be-come in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 more.
+Underfull \hbox (badness 1178) in paragraph at lines 168--176
+\OT1/cmr/m/n/12 fected and they do not be-long to the in-fec-tious any-more.
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 187--190
+
+ []
+
+[7] <Bilder/flow_diagramm_siwr_copia.png, id=37, 553.06625pt x 343.2825pt>
+File: Bilder/flow_diagramm_siwr_copia.png Graphic file (type png)
+
+<use Bilder/flow_diagramm_siwr_copia.png>
+Package pdftex.def Info: Bilder/flow_diagramm_siwr_copia.png used on input line
+ 192.
+(pdftex.def)             Requested size: 276.53244pt x 171.64082pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 19
+5.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 19
+6.
+
+[8 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera_Hait
+i/Github/doc/latex/Bilder/flow_diagramm_siwr_copia.png>] [9]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 22
+0.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 23
+0.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 23
+3.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 23
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 23
+8.
+
+[10] <Bilder/figure_model.png, id=49, 369.5406pt x 234.1548pt>
+File: Bilder/figure_model.png Graphic file (type png)
+
+<use Bilder/figure_model.png>
+Package pdftex.def Info: Bilder/figure_model.png used on input line 247.
+(pdftex.def)             Requested size: 369.53969pt x 234.15422pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 even-tu-ally stop-ping the epi-demic.
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 25
+0.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 25
+6.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 25
+8.
+
+[11 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera_Hai
+ti/Github/doc/latex/Bilder/figure_model.png>]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 26
+1.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 26
+3.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 26
+5.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 26
+9.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 27
+1.
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 271--272
+\OT1/cmr/m/n/12 and part-ner agen-cies ini-ti-ated emer-gency pub-lic health re
+-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 tions are the fol-low-ing:
+Underfull \hbox (badness 1337) in paragraph at lines 271--272
+\OT1/cmr/m/n/12 sponse ac-tiv-i-ties aimed at treat-ing sus-pected cholera case
+s
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 N \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 b
-[]WS \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 b[]SX \OMS/cmsy/m/n/12   \OML/cmm/m/it
-/12 S$
+Underfull \hbox (badness 2443) in paragraph at lines 271--272
+\OT1/cmr/m/n/12 me-dia cholera cam-paigns through ra-dio and hy-giene pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 b[]WS \OT1/cmr/m/n/12 + \OML/cmm/m/it/12
- b[]SX \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 I \OMS/cmsy/m/n/12   \OML/cmm/m/it/
-12 X$
+Underfull \hbox (badness 1442) in paragraph at lines 271--272
+\OT1/cmr/m/n/12 of wa-ter pu-rifi-ca-tion tablets and soap, and lim-ited dis-tr
+i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 X \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 
-R$
+Overfull \hbox (48.16278pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/12 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310585/?tool=pubme
+d) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 X \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 
-W$
- []
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 27
+3.
 
 
-Overfull \hbox (6.57716pt too wide) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 ery hu-man com-part-ment while all ba-bies are born into the su
-s-cep-ti-ble compartment.$\OML/cmm/m/it/12 b[]$
- []
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 27
+5.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 de-cay rate of the par-tic-u-lar pathogen in wa-ter.
- []
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 27
+7.
 
 
-Overfull \hbox (403.28497pt too wide) in paragraph at lines 157--237
-[]
- []
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 27
+9.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$\OML/cmm/m/it/12 s \OT1/cmr/m/n/12 = []$, $\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 
-= []$, $\OML/cmm/m/it/12 r \OT1/cmr/m/n/12 = []$, $\OML/cmm/m/it/12 w \OT1/cmr/
-m/n/12 = [][]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12  \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 [
-]ws \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 []sx \OMS/cmsy/m/n/12   \OML/cmm/m/it/
-12 s$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 []ws \OT1/cmr/m/n/12 + \OML/cmm/m/it/12
- []sx \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 x \OMS/cmsy/m/n/12   \OML/cmm/m/it/
-12 x$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 x \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 
-r$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x \OM
-S/cmsy/m/n/12   \OML/cmm/m/it/12 w\OT1/cmr/m/n/12 )$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12  \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 [
-]w[]s[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 []s[]x[] \OMS/cmsy/m/n/12   \OML/c
-mm/m/it/12 s[] [][] []x[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 s[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 []w[]s[] \OMS/cmsy/m/n/12   \OML/cmm/m/
-it/12 []s[]x[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 s[] [][] []x[] \OMS/cmsy/m/
-n/12   \OML/cmm/m/it/12 x[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 x[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 x[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12
- r[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[] \
-OMS/cmsy/m/n/12   \OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 )$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 mind that $\OML/cmm/m/it/12 $ \OT1/cmr/m/n/12 in-cludes pa-ram
--e-ters as well as vari-ables!
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 []w[] \OT1/cmr/m/n/12
- + \OML/cmm/m/it/12 []x[] \OT1/cmr/m/n/12 + [][] \OML/cmm/m/it/12 []x[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 with $\OML/cmm/m/it/12 $ \OT1/cmr/m/n/12 in-cluded look the fo
-l-low-ing:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12  \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 [
-]s[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 s[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 []s[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/
-12 x[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 x[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 x[] \OMS/cmsy/m/n/12   \OML/cmm/m/it/12
- r[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[] \
-OMS/cmsy/m/n/12   \OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 )$
- []
-
-
-Overfull \hbox (384.52821pt too wide) in paragraph at lines 157--237
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 set to 2 here.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-\OT1/cmr/m/n/12 pro-duc-tive num-ber $\OML/cmm/m/it/12 R[]$ \OT1/cmr/m/n/12 cou
-ld look like this:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--237
-$\OML/cmm/m/it/12 R[] \OT1/cmr/m/n/12 = []$
- []
-
-[5] [6] [7] [8 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/
-Cholera_Haiti/Github/doc/latex/flow diagram SIWR.jpg>] [9] [10] [11 <C:/Users/N
-icolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera_Haiti/Github/doc/l
-atex/figure model haiti.jpg>]
-Overfull \hbox (251.631pt too wide) in paragraph at lines 248--249
-\OT1/cmr/m/n/12 bu-tion of oral re-hy-dra-tion so-lu-tion (ORS) sa-chets. (Quel
-le: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310585/?tool=pubmed) 
- []
-
-[12]
+No file reportTemplate.bbl.
+[12] [13 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Choler
+a_Haiti/Github/doc/latex/Bilder/KarteHaiti.png>]
 (C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
 ithub\doc\latex\reportTemplate.aux) ) 
 Here is how much of TeX's memory you used:
- 3252 strings out of 494045
- 43849 string characters out of 3148382
- 128685 words of memory out of 3000000
- 6486 multiletter control sequences out of 15000+200000
+ 3662 strings out of 494045
+ 49062 string characters out of 3148382
+ 119317 words of memory out of 3000000
+ 6886 multiletter control sequences out of 15000+200000
  12457 words of font info for 48 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 42i,10n,24p,1967b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,24p,1241b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
@@ -641,471 +802,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on reportTemplate.pdf (12 pages, 345649 bytes).
+Output written on reportTemplate.pdf (13 pages, 402094 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-=======
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  21 MAY 2012 16:37
-entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**reportTemplate.tex
-(./reportTemplate.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
-c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
-h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
-h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
- icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
-iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
- lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
-ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
-ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
-.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
-)
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
-\Gm@dimlist=\toks15
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
-)
-Package graphics Info: Driver file: pdftex.def on input line 91.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count90
-))
-\Gin@req@height=\dimen111
-\Gin@req@width=\dimen112
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
-\@emptytoks=\toks16
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf.sty
-Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-)))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip43
-\bibsep=\skip44
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count91
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip45
-
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks17
-\ex@=\dimen113
-))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen114
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count92
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count93
-\leftroot@=\count94
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count95
-\DOTSCASE@=\count96
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen115
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count97
-\c@MaxMatrixCols=\count98
-\dotsspace@=\muskip10
-\c@parentequation=\count99
-\dspbrk@lvl=\count100
-\tag@help=\toks18
-\row@=\count101
-\column@=\count102
-\maxfields@=\count103
-\andhelp@=\toks19
-\eqnshift@=\dimen116
-\alignsep@=\dimen117
-\tagshift@=\dimen118
-\tagwidth@=\dimen119
-\totwidth@=\dimen120
-\lineht@=\dimen121
-\@envbody=\toks20
-\multlinegap=\skip46
-\multlinetaggap=\skip47
-\mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen122
-\WF@size=\dimen123
-\c@WF@wrappedlines=\count104
-\WF@box=\box28
-\WF@everypar=\toks22
-Package: wrapfig 2003/01/31  v 3.6
-)
-(./reportTemplate.aux)
-\openout1 = `reportTemplate.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: letterpaper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=556.47656pt
-* \oddsidemargin=19.8752pt
-* \evensidemargin=19.8752pt
-* \topmargin=-13.87262pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen124
-\scratchbox=\box29
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen125
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks24
-) (./cover.tex
-Package epstopdf Info: Source file: <ETHlogo.eps>
-(epstopdf)                    date: 2012-03-12 16:54:13
-(epstopdf)                    size: 179075 bytes
-(epstopdf)             Output file: <ETHlogo-eps-converted-to.pdf>
-(epstopdf)                    date: 2012-05-02 16:40:09
-(epstopdf)                    size: 14336 bytes
-(epstopdf)             Command: <repstopdf --outfile=ETHlogo-eps-converted-to.p
-df ETHlogo.eps>
-(epstopdf)             \includegraphics on input line 5.
-Package epstopdf Info: Output file is already uptodate.
- <ETHlogo-eps-converted-to.pdf, id=1, 179.67125pt x 45.16875pt>
-File: ETHlogo-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ETHlogo-eps-converted-to.pdf>
-Package pdftex.def Info: ETHlogo-eps-converted-to.pdf used on input line 5.
-(pdftex.def)             Requested size: 142.26378pt x 35.76698pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 34.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 34.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)) [1
-
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ETHlo
-go-eps-converted-to.pdf>]
-Overfull \hbox (5.3226pt too wide) in paragraph at lines 46--65
- [] 
- []
-
-
-Overfull \hbox (5.3226pt too wide) in paragraph at lines 70--89
- [][] 
- []
-
-[2] (./reportTemplate.toc)
-\tf@toc=\write3
-\openout3 = `reportTemplate.toc'.
-
- [3]
-<Bilder/KarteHaiti.png, id=19, 226.9278pt x 243.7908pt>
-File: Bilder/KarteHaiti.png Graphic file (type png)
-
-<use Bilder/KarteHaiti.png>
-Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 120.
-(pdftex.def)             Requested size: 181.54247pt x 195.0329pt.
-
-Overfull \hbox (39.27869pt too wide) in paragraph at lines 120--121
-[][] 
- []
-
-
-Underfull \hbox (badness 3250) in paragraph at lines 121--121
-[]\OT1/cmr/m/n/10.95 Figure 1: Hier steht die
- []
-
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[4 <./Bilder/KarteHaiti.png>]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [5]
-Underfull \hbox (badness 10000) in paragraph at lines 167--175
-\OT1/cmr/m/n/12 more.
- []
-
-[6]
-Overfull \hbox (6.57716pt too wide) in paragraph at lines 186--189
-\OT1/cmr/m/n/12 ery hu-man com-part-ment while all ba-bies are born into the su
-s-cep-ti-ble compartment.$\OML/cmm/m/it/12 b[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
-
- []
-
-<Bilder/flow_diagramm_siwr_copia.png, id=34, 553.06625pt x 343.2825pt>
-File: Bilder/flow_diagramm_siwr_copia.png Graphic file (type png)
-
-<use Bilder/flow_diagramm_siwr_copia.png>
-Package pdftex.def Info: Bilder/flow_diagramm_siwr_copia.png used on input line
- 191.
-(pdftex.def)             Requested size: 276.53244pt x 171.64082pt.
- [7] [8 <./Bilder/flow_diagramm_siwr_copia.png>] [9] <Bilder/figure_model.png, 
-id=48, 369.5406pt x 234.1548pt>
-File: Bilder/figure_model.png Graphic file (type png)
-
-<use Bilder/figure_model.png>
-Package pdftex.def Info: Bilder/figure_model.png used on input line 246.
-(pdftex.def)             Requested size: 369.53969pt x 234.15422pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
-
- []
-
-[10 <./Bilder/figure_model.png>]
-Overfull \hbox (251.631pt too wide) in paragraph at lines 270--271
-\OT1/cmr/m/n/12 bu-tion of oral re-hy-dra-tion so-lu-tion (ORS) sa-chets. (Quel
-le: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310585/?tool=pubmed) 
- []
-
-[11] (./reportTemplate.aux) ) 
-Here is how much of TeX's memory you used:
- 3256 strings out of 493633
- 43622 string characters out of 3143378
- 111561 words of memory out of 3000000
- 6497 multiletter control sequences out of 15000+200000
- 12457 words of font info for 48 fonts, out of 3000000 for 9000
- 831 hyphenation exceptions out of 8191
- 42i,10n,24p,1232b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti12.pfb>
-Output written on reportTemplate.pdf (11 pages, 391606 bytes).
-PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
-
->>>>>>> 9b68de2cca124406ca66c0cea61aff8dd5d60857
