@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  21 MAY 2012 16:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  21 MAY 2012 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -222,6 +222,14 @@ LaTeX Info: Redefining \] on input line 2667.
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
+(/usr/local/texlive/2011/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2009/03/01 v4.05 APA citation
+\c@BibCnt=\count105
+\bibleftmargin=\skip48
+\bibindent=\skip49
+\bibparsep=\skip50
+\bibitemsep=\skip51
+)
 (./reportTemplate.aux)
 \openout1 = `reportTemplate.aux'.
 
@@ -274,17 +282,23 @@ LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
+\scratchcounter=\count106
 \scratchdimen=\dimen124
 \scratchbox=\box29
-\nofMPsegments=\count106
-\nofMParguments=\count107
+\nofMPsegments=\count107
+\nofMParguments=\count108
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count108
+\MPscratchCnt=\count109
 \MPscratchDim=\dimen125
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
 \everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2009/03/01 v4.05 apacite language file
+LaTeX Info: Redefining \BPBI on input line 119.
+LaTeX Info: Redefining \BHBI on input line 120.
+
+NOT AUSTRALIAN!!!
 ) (./cover.tex
 Package epstopdf Info: Source file: <ETHlogo.eps>
 (epstopdf)                    date: 2012-03-12 16:54:13
@@ -329,19 +343,26 @@ Overfull \hbox (5.3226pt too wide) in paragraph at lines 70--89
 \openout3 = `reportTemplate.toc'.
 
  [3]
+! Extra \endgroup.
+\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
+                                                  
+l.114 \cite{ISI:000301786300007}
+                                
+Things are pretty mixed up, but I think the worst is over.
+
 <Bilder/KarteHaiti.png, id=19, 226.9278pt x 243.7908pt>
 File: Bilder/KarteHaiti.png Graphic file (type png)
 
 <use Bilder/KarteHaiti.png>
-Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 120.
+Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 121.
 (pdftex.def)             Requested size: 181.54247pt x 195.0329pt.
 
-Overfull \hbox (39.27869pt too wide) in paragraph at lines 120--121
+Overfull \hbox (39.27869pt too wide) in paragraph at lines 121--122
 [][] 
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 121--121
+Underfull \hbox (badness 3250) in paragraph at lines 122--122
 []\OT1/cmr/m/n/10.95 Figure 1: Hier steht die
  []
 
@@ -357,10 +378,10 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
+[4 <./Bilder/KarteHaiti.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[4 <./Bilder/KarteHaiti.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -391,18 +412,18 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
  [5]
-Underfull \hbox (badness 10000) in paragraph at lines 167--175
+Underfull \hbox (badness 10000) in paragraph at lines 168--176
 \OT1/cmr/m/n/12 more.
  []
 
 [6]
-Overfull \hbox (6.57716pt too wide) in paragraph at lines 186--189
+Overfull \hbox (6.57716pt too wide) in paragraph at lines 187--190
 \OT1/cmr/m/n/12 ery hu-man com-part-ment while all ba-bies are born into the su
 s-cep-ti-ble compartment.$\OML/cmm/m/it/12 b[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
+Underfull \hbox (badness 10000) in paragraph at lines 187--190
 
  []
 
@@ -411,32 +432,33 @@ File: Bilder/flow_diagramm_siwr_copia.png Graphic file (type png)
 
 <use Bilder/flow_diagramm_siwr_copia.png>
 Package pdftex.def Info: Bilder/flow_diagramm_siwr_copia.png used on input line
- 191.
+ 192.
 (pdftex.def)             Requested size: 276.53244pt x 171.64082pt.
  [7] [8 <./Bilder/flow_diagramm_siwr_copia.png>] [9] <Bilder/figure_model.png, 
 id=48, 369.5406pt x 234.1548pt>
 File: Bilder/figure_model.png Graphic file (type png)
 
 <use Bilder/figure_model.png>
-Package pdftex.def Info: Bilder/figure_model.png used on input line 246.
+Package pdftex.def Info: Bilder/figure_model.png used on input line 247.
 (pdftex.def)             Requested size: 369.53969pt x 234.15422pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
 [10 <./Bilder/figure_model.png>]
-Overfull \hbox (251.631pt too wide) in paragraph at lines 270--271
+Overfull \hbox (251.631pt too wide) in paragraph at lines 271--272
 \OT1/cmr/m/n/12 bu-tion of oral re-hy-dra-tion so-lu-tion (ORS) sa-chets. (Quel
 le: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310585/?tool=pubmed) 
  []
 
+No file reportTemplate.bbl.
 [11] (./reportTemplate.aux) ) 
 Here is how much of TeX's memory you used:
- 3256 strings out of 493633
- 43622 string characters out of 3143378
- 111561 words of memory out of 3000000
- 6497 multiletter control sequences out of 15000+200000
+ 3590 strings out of 493633
+ 47677 string characters out of 3143378
+ 118744 words of memory out of 3000000
+ 6821 multiletter control sequences out of 15000+200000
  12457 words of font info for 48 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  42i,10n,24p,1232b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -451,7 +473,7 @@ onts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti12.pfb>
-Output written on reportTemplate.pdf (11 pages, 391606 bytes).
+Output written on reportTemplate.pdf (11 pages, 391735 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
