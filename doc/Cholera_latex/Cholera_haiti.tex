@@ -236,7 +236,7 @@ $ s=\dfrac{S}{N} $,	$ x=\dfrac{X}{N} $,	$ r=\dfrac{R}{N} $,	$ w=\dfrac{W}{N}\dfr
 \end{empheq}
 
 
-Because $ W $ was replaced by the expression $ wN\frac{\alpha}{\xi} $, which is a bit more complex than just $ wN $, parameters in expressions with a former capital $ W $ are replaced by new parameters. The differential equation for the water compartment has become simpler as only one parameter $ \xi $ is needed from now on. Two new parameters are introduced to replace $ b_{W} $ and $ b_{I} $ by $ \beta_{W}=b_{W}N\dfrac{\alpha}{\xi} $ and $ \beta_{I}=b_{I}N $ respectively.
+Because $ W $ was replaced by the expression $ wN\frac{\alpha}{\xi} $, which is a bit more complex than just $ wN $, parameters in expressions with a former capital $ W $ are replaced by new parameters. The differential equation for the water compartment has become simpler as only one parameter $ \xi $ is needed from now on. Two new parameters are introduced to replace $ b_{W} $ and $ b_{I} $ by $ \beta_{W}=b_{W}N\frac{\alpha}{\xi} $ and $ \beta_{I}=b_{I}N $ respectively.
 
 \begin{quotation}
 The basic reproductive number $ R_{0} $ is defined as the expected number of secondary infections that result from introducing a single infected individual into an otherwise susceptible population. $ R_{0} $ is a fundamental quantity in mathematical epidemiology, which - in the deterministic limit - dictates whether a newly invading pathogen will cause a disease outbreak (direct quote Tien and Earn, 2010 \cite{tien:2010}).
@@ -244,7 +244,7 @@ The basic reproductive number $ R_{0} $ is defined as the expected number of sec
 
 For the SIWR model, the equation $ R_{0}=\frac{\beta_{I}+\beta_{W}}{\gamma+\mu} $ holds.
 \subsection{Spatially divided SIWR model}
-The SIWR model can be applied to the case of a population  that is spatially separated into different parts, which was done by Tuite \textit{et al.} for the ten districts of Haiti \cite{tuite:2011}. The only additional term which was added for this approach gives the person-to-person infections by infectious individuals of different districts. So the susceptible population of every district could be infected by the infectious population or contaminated water of their own district or infectious individuals of other districts. The last term accounts for people who move or travel around. To consider the distances between different districts a gravity-model was used \cite{tuite:2011}. Parameter $ \theta $ depends on the population of the two districts in question and on the distance between their capital cities. The concept is essentially the same as for the gravity equation: $ \theta_{ij}=\kappa\frac{p_{i}p_{j}}{d^{n}} $. $ p_{i} $ and $ p_{j} $ are population sizes of different districts, $ d $ is given by the distance between the capital cities of the two districts in question, $ n $ influences how strong transmission depends on distance and $ \kappa $ determines how important the transmission between districts is thought to be. With this equation a between district transmission rate $ \theta_{ij} $ can be calculated for every possible constellation. With ten districts, this results in 90 different $ \theta_{ij} $, one for every possible combination. Because of the shape of Haiti, it was divided into a northern and a southern part when determining these distances. Ouest was thought to be the link between those two parts, where all travellers had to pass through. So distances between two districts that did not belong to the same part were taken as the sum of distances between the capital city of the district in the northern part and the capital city of Ouest and the distance between the capital cities of Ouest and the district in the southern part.
+The SIWR model can be applied to the case of a population  that is spatially separated into different parts, which was done by Tuite \textit{et al.} for the ten districts of Haiti \cite{tuite:2011}. The only additional term which was added for this approach gives the person-to-person infections by infectious individuals of different districts. So the susceptible population of every district could be infected by the infectious population or contaminated water of their own district or infectious individuals of other districts. The last term accounts for people who move or travel around. To consider the distances between different districts a gravity-model was used \cite{tuite:2011}. Parameter $ \theta $ depends on the population of the two districts in question and on the distance between their capital cities. The concept is essentially the same as for the gravity equation: $ \Theta_{ij}=\kappa\frac{p_{i}p_{j}}{d^{n}} $. $ p_{i} $ and $ p_{j} $ are population sizes of different districts, $ d $ is given by the distance between the capital cities of the two districts in question, $ n $ influences how strong transmission depends on distance and $ \kappa $ determines how important the transmission between districts is thought to be. With this equation a between district transmission rate $ \theta_{ij} $ can be calculated for every possible constellation. With ten districts, this results in 90 different $ \theta_{ij} $, one for every possible combination. Because of the shape of Haiti, it was divided into a northern and a southern part when determining these distances. Ouest was thought to be the link between those two parts, where all travellers had to pass through. So distances between two districts that did not belong to the same part were taken as the sum of distances between the capital city of the district in the northern part and the capital city of Ouest and the distance between the capital cities of Ouest and the district in the southern part.
 The equation for the model with different districts (indicated by the index $ i $) are the following:
 
 \begin{empheq}[left=\empheqlbrace]{align}
@@ -260,7 +260,7 @@ The force of infection $ \lambda $ is introduced to summarize all the effects of
 
 \begin{equation}
 
-\lambda_{i}=\beta_{W}w_{i}+\beta_{I}x_{i}+\sum_{j=1}^{10}\theta_{ij}x_{j}
+\lambda_{i}=\beta_{W}w_{i}+\beta_{I}x_{i}+\sum\limits_{j=1}^I  \Theta_{ij}  x_{j}
 
 \end{equation}
 
@@ -310,7 +310,7 @@ One of the bigger problems with the SIWR model is the lack of knowledge about ch
 In order to observe intercompartmental transmission, we used the same modification as Tuite et al. \cite{tuite:2011} in their SIWR model. The force of infection $\lambda$ in the \textit{i}th district is:
 
 \begin{equation}
-\lambda_{i} = \beta_{Xi} x + \sum\limits_{j=0}^I  \Theta_{ij}  x_{j}
+\lambda_{i} = \beta_{Xi} x + \sum\limits_{j=1}^I  \Theta_{ij}  x_{j}
 \label{eq:lambda}
 \end{equation}
 
