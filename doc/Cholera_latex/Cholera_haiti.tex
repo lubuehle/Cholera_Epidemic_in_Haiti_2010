@@ -123,8 +123,8 @@
 \item Conception and design of model: Nicolas Stocker, Benedict Borer
 \item Implementation: Benedict Borer
 \item Analysis and interpretation of the data: Benedict Borer, Nicolas Stocker
-\item Writing the report: Benedict Borer, Nicolas Stocker, Lukas Buehler \textbf{FRAGE: muessen wir Angeben wer welcher Text geschrieben hat?}
-\item Revision of the report: Nicolas Stocker
+\item Writing the report: Benedict Borer, Nicolas Stocker, Lukas Buehler, Benjamin Pluess
+\item Revision of the report: Benedict Borer, Nicolas Stocker, Lukas Buehler, Benjamin Pluess
 \item Administrative efforts: Lukas Buehler
 \item Layouting: Lukas Buehler
 \item Collection and assembly of data: Benjamin Pluess
@@ -151,7 +151,6 @@
 12 January 2010, 16.53 local time in Haiti: for an entire minute the earth shook, with a magnitude of 7.0  (on the Moment magnitude scale), with an epicenter 25 km west of Haiti's capital, Port-au-Prince. \cite{nyt:mag} Followed by at least 52 aftershocks,  this earthquake was the most dramatic in the 21st century: the Haitian government estimated that 316,000 people died \cite{web:cbc1}, one million people lost their homes, and 3.2 million were directly affected. \cite{web:ear}
 
 \subsubsection*{Geological overview}
-
 The earthquake was located on the active plate boundary, with the Caribbean Tectonic Plate shifting eastwards relative to the North American Plate. This caused a highly dangerous strike-slip-fault system here with the southern active Enriquillo-Plantain-Garden-fault. The earthquake was caused by a rupture of this system, which has been blocked for the past 2500 years, loading stress. \cite{web:bbc1}
 
 \subsubsection*{Primary impacts}
@@ -160,9 +159,7 @@ As Haiti is one of the poorest countries in the western hemisphere,  the economy
 
 \subsubsection*{The aftermath}
 
-In the months following the earthquake, many people slept in the streets because their houses had been destroyed or they feared that their buildings would not survive further aftershocks. Slow distribution of resources resulted in violence and some people began plundering. \textbf{CITE}
-\newline
-The earthquake destroyed thousands of families, made a whole social system collapse, and destroyed economic interactions in the country. Anarchy and a rights-free area were the result \textbf{CITE}. The Haitians' dramatic fight for survival began in the silent seconds after the earthquake and still goes on.
+In the months following the earthquake, many people slept in the streets because their houses had been destroyed or they feared that their buildings would not survive further aftershocks. Slow distribution of resources resulted in violence and some people began plundering \textbf{CITE}. The earthquake destroyed thousands of families, made a whole social system collapse, and destroyed economic interactions in the country. Anarchy and a rights-free area were the result \textbf{CITE}. The Haitians' dramatic fight for survival began in the silent seconds after the earthquake and still goes on.
 
 
 \subsubsection*{The approaching problem: cholera}
@@ -185,8 +182,8 @@ By the end of October 2010, the cholera epidemic had four out of ten Haitian dep
 
 
 \section{Description of the Model}
-A general model for epidemics was established by Kermack and McKendrick over 80 years ago (1927). It is a representative of the so-called SIR models. SIR stands for the three groups a population is divided into: susceptible, infected and removed persons for the particular disease. The model makes the assumptions that the population size is constant, no incubation period exists - which means that individuals fall ill the moment they are infected, and that the time of infectivity is the same as the duration of the clinical disease \textbf{(powerpoint presentation MSSSM)}. This implies that infected individuals are always infectious and vice versa. Infected and infectious have therefore to be seen as descriptions of the same state. Because in reality these expressions are not equivalent, either one of them is used in a logical, appropriate manner. Furthermore, after having been infected once, individuals become completely immune to the disease in question \cite{kermack:1927}. Kermack and McKendrick and have used the plague as an example of an epidemic which can be modeled by their work. Since then other epidemics have been modeled by similar frameworks that can be counted as part of the SIR models.
-The Kermack-McKendrick model equations are the following:
+\subsection{SIR model by Kermack and McKendrick}
+A general model for epidemics was established by Kermack and McKendrick over 80 years ago \cite{kermack:1927}. It is a representative of the so-called SIR models. SIR stands for the three groups a population is divided into: susceptible, infected and removed persons for the particular disease. The model makes the assumptions that the population size is constant, no incubation period exists - which means that individuals fall ill the moment they are infected, and that the time of infectivity is the same as the duration of the clinical disease \cite{kermack:1927}. This implies that infected individuals are always infectious and vice versa. Infected and infectious have therefore to be seen as descriptions of the same state. Because in reality these expressions are not equivalent, either one of them is used in a logical, appropriate manner. Furthermore, after having been infected once, individuals become completely immune to the disease in question \cite{kermack:1927}. Kermack and McKendrick and have used the plague as an example of an epidemic which can be modeled by their work. Since then other epidemics have been modeled by similar frameworks that can be counted as part of the SIR models. The Kermack-McKendrick model equations are the following:
 
 
 \begin{empheq}[left=\empheqlbrace]{align}
@@ -196,8 +193,9 @@ The Kermack-McKendrick model equations are the following:
 \end{empheq}
 
 
-S, X and R are the numbers of susceptible, infectious and removed persons, respectively. Removed means that those people have either died from the disease or they have recovered and as a result are perfectly immune now. Either way, they are no longer candidates to become infected and they do not belong to the infectious population anymore. 
-Here $\beta$ stands for the infection rate and $\gamma$ for the immunity (or death) rate. It is the inverse value of the average duration of infectiousness. If $\beta$ and $\gamma$ are constants, the spreading of an epidemic that is modelled with this concept can only decrease or be stopped when enough individuals have been moved from the susceptible to the removed compartment (becoming infectious and then being removed because of death or recovery); a decrease in the value of the susceptible compartment ($ S $) is going to lower the term $\beta X(t)S(t)$ which leads to a decrease of the value of infectious ($ X $), eventually stopping the epidemic.\\
+S, X and R are the numbers of susceptible, infectious and removed persons, respectively. Removed means that those people have either died from the disease or they have recovered and as a result are perfectly immune now. Either way, they are no longer candidates to become infected and they do not belong to the infectious population anymore. Here $\beta$ stands for the infection rate and $\gamma$ for the immunity (or death) rate. It is the inverse value of the average duration of infectiousness. If $\beta$ and $\gamma$ are constants, the spreading of an epidemic that is modelled with this concept can only decrease or be stopped when enough individuals have been moved from the susceptible to the removed compartment (becoming infectious and then being removed because of death or recovery); a decrease in the value of the susceptible compartment ($ S $) is going to lower the term $\beta X(t)S(t)$ which leads to a decrease of the value of infectious ($ X $), eventually stopping the epidemic.\\
+
+\subsection{SIWR model by Tien and Earn}
 For diseases that are transmitted through water and person-to-person contact, an extension of the SIR model was developed by Tien and Earn \cite{tien:2010}. The main difference is the introduction of a fourth compartment $ W $ which represents the waterbody. The water compartment can be contaminated by infectious people and susceptible individuals can be infected by the contaminated water compartment. This water compartment can improve the quality of predictions for diseases that are mainly transmitted through ingestion of contaminated water. Another new feature of the model is the introduction of natural death terms in every compartment with humans (all compartments expect $ W $) and a corresponding birth term in the susceptible compartment. These terms are chosen so that the total number of individuals in all compartments with humans stays constant.
 The model equations are the following:
 
@@ -222,7 +220,13 @@ $ \mu $ is the parameter for natural deaths and the birth rate. Natural deaths o
 
 
 Figure \ref{pic:flow_diagram} gives an overview of the parameters and the roles they play in this model \cite{tien:2010}. Tien and Earn also recommend rescaling the model equations. Rescaling has some advantages, one of which being the possibility to directly compare different epidemics with different populations. Used for rescaling is the total population number $ N $. The new properties have the following relationship with the old ones: \\
+\newline
+
+\begin{center}
 $ s=\dfrac{S}{N} $,	$ x=\dfrac{X}{N} $,	$ r=\dfrac{R}{N} $,	$ w=\dfrac{W}{N}\dfrac{\xi}{\alpha} $
+\end{center}
+
+\newline
 
 \begin{empheq}[left=\empheqlbrace]{align}
 \dfrac{ds}{dt}=\mu -\beta_{W}ws-\beta_{I}sx-\mu s        				\label{eq:SIWRrescaled_susceptible} \\
@@ -289,11 +293,11 @@ R_{t}=\dfrac{R_{0}}{(1+f)^{t}}
 In this section we will describe the implementation of the SIR model in Matlab. To explain why we decided on the SIR and not the SIWR model, we will also look at some of the difficulties of implementing the SIWR model.
 
 \subsection{Problems with rescaling}
-We first tried to rescale our model as proposed by Tien and Earn \cite{tien:2010}. It seems, though, that their rescaled model equations are somewhat paradoxical. Looking at the dimensions of equation \eqref{eq:SIWR_susceptible}} there already seems to be some contradiction. The dimension of $\.{s}$,s,i and r is $km^{-2}$. The dimension of $\mu$, $\beta_{w}$ and $\beta_{i}$ is declared as $day^{-1}$. This shows that the dimensions on the left and right side of the equation cannot be the same. Because of this, we decided to let our susceptible, infectious and removed compartments have the dimension of percentages. As a consequence, we do not know what dimensions our coefficients have (e.g. $day^{-1}$ or $cells*ml^{-3}$). We will not be able to make the same conclusions as \cite{tuite:2011}. Primarily, we will be able to make qualitative statements about the proportions of transmission caused by the local population versus the interdepartmental transmission.
+We first tried to rescale our model as proposed by Tien and Earn \cite{tien:2010}. It seems, though, that their rescaled model equations are somewhat paradoxical. Looking at the dimensions of equation \eqref{eq:SIWR_susceptible}} there already seems to be some contradiction. The dimension of $\.{s}$,s,i and r is $km^{-2}$. The dimension of $\mu$, $\beta_{w}$ and $\beta_{i}$ is declared as $day^{-1}$ \cite{tien:2010}. This shows that the dimensions on the left and right side of the equation cannot be the same. Because of this, we decided to let our susceptible, infectious and removed compartments have the dimension of percentages. As a consequence, we do not know what dimensions our coefficients have (e.g. $day^{-1}$ or $cells*ml^{-3}$). We will not be able to make the same conclusions as Tuite et al \cite{tuite:2011}. Primarily, we will be able to make qualitative statements about the proportions of transmission caused by the local population versus the interdepartmental transmission.
 
 
 \subsection{Data from the MSPP}
-We collected the raw data from the Minist\`{e}re de la Sant\'{e} Publique et de la Population de la R\'{e}publique d'Haiti (MSPP) \cite{web:MSPP} . To get our ten districts, we added the numbers from Port-au-Prince to the department Ouest. In total, we collected the data for 92 days (the months November and December 2010 and January 2011) and ten different districts. To compare the original data to the model output we needed the amount of susceptible, infectious and removed in each department. Whilst extracting all the data we found some inconsistencies within the data sheets themselves. For this reason we chose to take the data from what we considered the most reliable on the sheets (mainly the data from hospitals). The infectious data were taken directly from the data sheets as the number of hospitalizations. The removed data are the sum of deaths in hospital and the healed. The susceptible data were calculated as the total population minus the infectious and removed. All the values were divided by the respective total population to produce the percentages.\\
+We collected the raw data from the Minist\`{e}re de la Sant\'{e} Publique et de la Population de la R\'{e}publique d'Haiti (MSPP) \cite{web:MSPP}. To get our ten districts, we added the numbers from Port-au-Prince to the department Ouest. In total, we collected the data for 92 days (the months November and December 2010 and January 2011) and ten different districts. To compare the original data to the model output we needed the amount of susceptible, infectious and removed in each department. Whilst extracting all the data we found some inconsistencies within the data sheets themselves. For this reason we chose to take the data from what we considered the most reliable on the sheets (mainly the data from hospitals). The infectious data were taken directly from the data sheets as the number of hospitalizations. The removed data are the sum of deaths in hospital and the healed. The susceptible data were calculated as the total population minus the infectious and removed. All the values were divided by the respective total population to produce the percentages.\\
 One of the bigger problems with the SIWR model is the lack of knowledge about cholera and the water quality during the epidemic. Because we found no data available in the internet and Tuite et al. \cite{tuite:2011} don't cite any source for their data, we started out by setting all the values for the water quality on day 1 to 0. The amount of cholera bacteria would rise due to the bacterial shedding rate from the infected to the water compartment. After some trial runs we discovered that the SIWR model is extremely sensitive to changes in the initial conditions of the water quality. This was one of the main reasons we decided to use the SIR model. Continuing with the SIWR model would result in a high uncertainty about the variability caused by the false initial conditions of the water quality versus the parameters fitted by the solver.
 
 
@@ -309,8 +313,8 @@ In order to observe intercompartmental transmission, we used the same modificati
 \label{eq:lambda}
 \end{equation}
 
-The influence of infection of the \textit{jth} district on the \textit{ith} district $\Theta$ is calculated the same way as Tute et al..
-Also as stated by Tuite et al. \cite{tuite:2011}, within the short time period that we observe the natural birth/death rate is of no significance CITE. This reduces our SIR model equations to:
+The influence of infection of the \textit{jth} district on the \textit{ith} district $\Theta$ is calculated the same way as Tute et al.
+Also as stated by Tuite et al., within the short time period that we observe the natural birth/death rate is of no significance \cite{tuite:2011}. This reduces our SIR model equations to:
 
 \begin{empheq}[left=\empheqlbrace]{align}
 \.{s} = - \lambda s                \label{eq:sir_susceptible} \\
@@ -326,7 +330,7 @@ The benefit of this simplified model is that we only need to fit a few coefficie
 
 
 
-Our goal was to build a solver which, starting from our given initial conditions, tries to find the optimal values of the coefficients to reduce the sum of the squared residuals (SSQ). The SSQ is calculated by squaring the difference of the predicted percentage of a compartment (e.g. susceptible, infected or removed) and the observed data and summing them up over all days and districts. The solver would stop calculating if either the difference of the two following SSQ was smaller than 0.001\% or if the solver has calculated more than 1000 cycles. This was introduced to exclude any infinite loops. In each cycle of the solver, all the coefficients were slightly increased and decreased by 2\% of its value. These modified coefficients were then combined to create all possible scenarios. This results in $2^{k}$ scenarios where k is the number of coefficients that need to be fitted. Because of our simplification to the model we only needed to fit $\kappa$,$\beta_{x}$ and $\gamma$. In each cycle our solver calculated 8 different scenarios. Table \ref{tab:solverbuild} shows the different scenarios calculated.
+Our goal was to build a solver which, starting from our given initial conditions, tries to find the optimal values of the coefficients to reduce the sum of the squared residuals (SSQ). The SSQ is calculated by squaring the difference of the predicted percentage of a compartment (e.g. susceptible, infected or removed) and the observed data and summing them up over all days and districts. Because our model is practically unable to reproduce the observed data for the susceptible compartment we did not include the SSQ of x within the solver criteria. The solver would stop calculating if either the difference of the two following SSQ was smaller than 0.001\% or if the solver has calculated more than 1000 cycles. This was introduced to exclude any infinite loops. In each cycle of the solver, all the coefficients were slightly increased and decreased by 2\% of its value. These modified coefficients were then combined to create all possible scenarios. This results in $2^{k}$ scenarios where k is the number of coefficients that need to be fitted. Because of our simplification to the model we only needed to fit $\kappa$,$\beta_{x}$ and $\gamma$. In each cycle our solver calculated 8 different scenarios. Table \ref{tab:solverbuild} shows the different scenarios calculated.
 
 
 
@@ -360,7 +364,7 @@ $\kappa$ & $\beta_{x}$ & $\gamma$ \\
 
 
 
-The solver computes the SSQ starting with these new coefficients and chooses the ones where the SSQ was reduced the most. The next cycle is then started with these coefficients.\\
+The solver computes the SSQ starting with these slightly modified coefficients and chooses the ones where the SSQ was reduced the most. The next cycle is then started with these coefficients.\\
 We decided to build our own solver mainly for two reasons:
 
 \begin{enumerate}
@@ -459,27 +463,6 @@ Figure \ref{fig:geo_removed} shows the spread of the removed compartment on the 
 \subsection{Discussion} 
 The reliability and accessibility of data have proved to be a crucial part of building this model. Because of the lack of water quality data we have decided to construct an ordinary SIR model instead of an SIWR. Even with our simplified SIR model equations we were able to predict the epidemic over 3 months to some extent. In our model, the interdepartmental transmission is of no importance to the spread of the disease. There are two main reasons we believe why this might be in our model. Tien and Earn \cite{tien:2010} put the percentage of infected, susceptible and infectious populations in relation to the area observed in the model. For us this would mean we put the respective percentages in relation to the area of the districts. The result would be a density, for instance percent infected per square kilometer. For districts with many inhabitants in a relatively small area this would result in much higher values for s,x and r compared to sparsely inhabited districts. When using the gravity model as proposed by Tuite et al. \cite{tuite:2011} the districts with a high x would have a much greater influence on the force of infection $\lambda$.\\
 Another reason might be the gravity model we used in itself. Because we chose a different way of rescaling our values, s,x and r are much higher than those calculated by Tuite et al. \cite{tuite:2011}. As a result the relation $\frac{pop_{i}*pop_{j}}{d^{n}}$ might be unsuited for our dimensions. We tried to even this out by fitting $\kappa$.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
