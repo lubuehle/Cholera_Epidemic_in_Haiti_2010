@@ -1,23 +1,23 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.7)  24 MAY 2012 01:35
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.10.30)  24 MAY 2012 10:25
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **Cholera_haiti.tex
-
-(C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
-ithub\doc\Cholera_latex\Cholera_haiti.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
-vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
-an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
-romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
-sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
-senglishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+(./Cholera_haiti.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spani
+sh, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -32,22 +32,22 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -62,29 +62,28 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/18 v0.06c Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count90
@@ -92,10 +91,10 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
@@ -103,28 +102,28 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -133,7 +132,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -144,32 +143,36 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count91
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen113
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen114
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count92
@@ -210,7 +213,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen122
 \WF@size=\dimen123
 \c@WF@wrappedlines=\count104
@@ -218,16 +221,16 @@ LaTeX Info: Redefining \] on input line 2667.
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\mh\empheq.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/mh/empheq.sty
 Package: empheq 2007/12/03 v2.12 Emphasizing equations (MH)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mhsetup.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/mh/mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mathtools.sty"
-Package: mathtools 2012/04/24 v1.12 mathematical typesetting tools
+(/usr/local/texlive/2010/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2011/02/12 v1.10 mathematical typesetting tools
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count105
 \calc@Bcount=\count106
@@ -245,41 +248,38 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \origjot=\skip51
 \l_MT_shortvdotswithinadjustabove_dim=\dimen127
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen128
-\l_MT_above_intertext_dim=\dimen129
-\l_MT_below_intertext_dim=\dimen130
-\l_MT_above_shortintertext_dim=\dimen131
-\l_MT_below_shortintertext_dim=\dimen132
 )
 \l_EQ_equationtype_int=\count109
 \l_EQ_alignmentmode_int=\count110
-\l_EQ_totalwidth_dim=\dimen133
-\l_EQ_displaywidth_dim=\dimen134
-\l_EQ_temp_linewidth_dim=\dimen135
-\EmphEqdelimitershortfall=\dimen136
+\l_EQ_totalwidth_dim=\dimen129
+\l_EQ_displaywidth_dim=\dimen130
+\l_EQ_temp_linewidth_dim=\dimen131
+\EmphEqdelimitershortfall=\dimen132
 \EmphEqdelimiterfactor=\count111
-\g_EQ_toptag_height_dim=\dimen137
-\g_EQ_bottomtag_depth_dim=\dimen138
-\g_EQ_toprow_height_dim=\dimen139
-\g_EQ_bottomrow_depth_dim=\dimen140
-\g_EQ_widesttag_dim=\dimen141
+\g_EQ_toptag_height_dim=\dimen133
+\g_EQ_bottomtag_depth_dim=\dimen134
+\g_EQ_toprow_height_dim=\dimen135
+\g_EQ_bottomrow_depth_dim=\dimen136
+\g_EQ_widesttag_dim=\dimen137
 \EQ_mathdisplay_box=\box29
 \EQ_tag_box=\box30
 \g_EQ_temprow_int=\count112
 )
-(C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
-ithub\doc\Cholera_latex\Cholera_haiti.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+(./Cholera_haiti.aux)
+\openout1 = `Cholera_haiti.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -315,32 +315,29 @@ LaTeX Font Info:    ... okay on input line 20.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
-\scratchdimen=\dimen142
+\scratchdimen=\dimen138
 \scratchbox=\box31
 \nofMPsegments=\count114
 \nofMParguments=\count115
 \everyMPshowfont=\toks23
 \MPscratchCnt=\count116
-\MPscratchDim=\dimen143
+\MPscratchDim=\dimen139
 \MPnumerator=\count117
-\makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks24
 )
-\Hy@linkcounter=\count119
-
-(C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
-ithub\doc\Cholera_latex\cover.tex
+\Hy@linkcounter=\count118
+ (./cover.tex
 Package epstopdf Info: Source file: <Bilder/ETHlogo.eps>
-(epstopdf)                    date: 2012-05-23 12:18:17
-(epstopdf)                    size: 179075 bytes
+(epstopdf)                    date: 2012-05-24 09:36:19
+(epstopdf)                    size: 171343 bytes
 (epstopdf)             Output file: <Bilder/ETHlogo-eps-converted-to.pdf>
-(epstopdf)                    date: 2012-05-23 12:18:17
+(epstopdf)                    date: 2012-05-24 10:25:29
 (epstopdf)                    size: 14336 bytes
-(epstopdf)             Command: <epstopdf --outfile=Bilder/ETHlogo-eps-converte
-d-to.pdf Bilder/ETHlogo.eps>
+(epstopdf)             Command: <repstopdf --outfile=Bilder/ETHlogo-eps-convert
+ed-to.pdf Bilder/ETHlogo.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
 
@@ -353,99 +350,73 @@ Package pdftex.def Info: Bilder/ETHlogo-eps-converted-to.pdf used on input line
 (pdftex.def)             Requested size: 142.26378pt x 35.76698pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 34.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )) [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Nicolas/Document
-s/Umweltnaturwissenschaften/6Semester/Cholera_Haiti/Github/doc/Cholera_latex/Bi
-lder/ETHlogo-eps-converted-to.pdf>]
-Overfull \hbox (5.3226pt too wide) in paragraph at lines 46--65
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Bilde
+r/ETHlogo-eps-converted-to.pdf>]
+Overfull \hbox (5.3226pt too wide) in paragraph at lines 42--61
  [] 
  []
 
 
-Overfull \hbox (5.3226pt too wide) in paragraph at lines 70--89
+Overfull \hbox (5.3226pt too wide) in paragraph at lines 66--85
  [][] 
  []
 
-[2] <Bilder/declaration_of_originality.png, id=15, 614.65636pt x 1011.78pt>
-File: Bilder/declaration_of_originality.png Graphic file (type png)
-
-<use Bilder/declaration_of_originality.png>
-Package pdftex.def Info: Bilder/declaration_of_originality.png used on input li
-ne 97.
-(pdftex.def)             Requested size: 368.79666pt x 607.07268pt.
-
-
-LaTeX Warning: Float too large for page by 62.59612pt on input line 99.
-
-
-(C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
-ithub\doc\Cholera_latex\Cholera_haiti.toc)
+[2] (./Cholera_haiti.toc)
 \tf@toc=\write3
- [3] [4 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera
-_Haiti/Github/doc/Cholera_latex/Bilder/declaration_of_originality.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 116.
+\openout3 = `Cholera_haiti.toc'.
+
+ [3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 123.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
 
-<Bilder/KarteHaiti.png, id=23, 226.9278pt x 243.7908pt>
+<Bilder/KarteHaiti.png, id=19, 226.9278pt x 243.7908pt>
 File: Bilder/KarteHaiti.png Graphic file (type png)
 
 <use Bilder/KarteHaiti.png>
-Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 146.
+Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 143.
 (pdftex.def)             Requested size: 181.54247pt x 195.0329pt.
 
-Overfull \hbox (39.27869pt too wide) in paragraph at lines 146--147
+Overfull \hbox (39.27869pt too wide) in paragraph at lines 143--144
 [][] 
  []
 
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[5 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera_Hait
-i/Github/doc/Cholera_latex/Bilder/KarteHaiti.png>]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 3250) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10.95 Figure 1: Hier steht die
+ []
+
+[4 <./Bilder/KarteHaiti.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [6]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmti12!
+Missing character: There is no Ä in font cmti12!
+Missing character: There is no ú in font cmti12!
+Missing character: There is no ‚ in font cmti12!
+Missing character: There is no Ä in font cmti12!
+Missing character: There is no ù in font cmti12!
+ [5]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no © in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
@@ -455,44 +426,110 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [7] [8] [9]
-<Bilder/flow_diagram_SIWR.png, id=46, 538.1706pt x 317.0244pt>
+ [6] [7]
+<Bilder/flow_diagram_SIWR.png, id=41, 538.1706pt x 317.0244pt>
 File: Bilder/flow_diagram_SIWR.png Graphic file (type png)
 
 <use Bilder/flow_diagram_SIWR.png>
-Package pdftex.def Info: Bilder/flow_diagram_SIWR.png used on input line 240.
-(pdftex.def)             Requested size: 269.08464pt x 158.51181pt.
- [10 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera_Ha
-iti/Github/doc/Cholera_latex/Bilder/flow_diagram_SIWR.png (PNG copy)>] [11]
-Overfull \hbox (324.77974pt too wide) detected at line 289
-\OML/cmm/m/it/12 <<<<<<< HEAD[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 []w[] \OT1
-/cmr/m/n/12 + \OML/cmm/m/it/12 []x[] \OT1/cmr/m/n/12 + [] \OML/cmm/m/it/12 []
-x[] \OT1/cmr/m/n/12 ======= \OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = \OML/cmm/m/i
-t/12 []w[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 []x[] \OT1/cmr/m/n/12 + [] \OML
-/cmm/m/it/12 []x[] >>>>>>> \OT1/cmr/m/n/12 85\OML/cmm/m/it/12 a\OT1/cmr/m/n/12
- 3338\OML/cmm/m/it/12 df\OT1/cmr/m/n/12 5527\OML/cmm/m/it/12 ab\OT1/cmr/m/n/12 
-7912311\OML/cmm/m/it/12 c\OT1/cmr/m/n/12 89\OML/cmm/m/it/12 acb\OT1/cmr/m/n/12 
-74\OML/cmm/m/it/12 d\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 e\OT1/cmr/m/n/12 42\OML/c
-mm/m/it/12 f\OT1/cmr/m/n/12 0318
- []
+Package pdftex.def Info: Bilder/flow_diagram_SIWR.png used on input line 217.
+(pdftex.def)             Requested size: 376.71684pt x 221.91556pt.
+ [8 <./Bilder/flow_diagram_SIWR.png (PNG copy)>] [9]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.257 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-<Bilder/figure_model_haiti.png, id=56, 358.31467pt x 235.74474pt>
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.257 
+      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.258 \lambda
+             _{i}=\beta_{W}w_{i}+\beta_{I}x_{i}+\sum_{j=1}^{10}\theta_{ij}x_{j}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.259 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in vertical mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.260 \end{equation}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.260 \end{equation}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.260 \end{equation}
+                    
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+<Bilder/figure_model_haiti.png, id=50, 358.31467pt x 235.74474pt>
 File: Bilder/figure_model_haiti.png Graphic file (type png)
 
 <use Bilder/figure_model_haiti.png>
-Package pdftex.def Info: Bilder/figure_model_haiti.png used on input line 296.
-(pdftex.def)             Requested size: 358.31378pt x 235.74416pt.
- [12]
+Package pdftex.def Info: Bilder/figure_model_haiti.png used on input line 265.
+(pdftex.def)             Requested size: 250.81854pt x 165.02019pt.
+ [10]
+! Too many }'s.
+<recently read> }
+                 
+l.292 ... of equation \eqref{eq:SIWR_susceptible}}
+                                                   there already seems to be...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
-LaTeX Warning: Command \. invalid in math mode on input line 328.
+
+LaTeX Warning: Command \. invalid in math mode on input line 292.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.328 ...me contradiction. The dimension of $\.{s}
+l.292 ...me contradiction. The dimension of $\.{s}
                                                   $,s,i and r is $km^{-2}$. ...
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -500,7 +537,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.328 ...me contradiction. The dimension of $\.{s}
+l.292 ...me contradiction. The dimension of $\.{s}
                                                   $,s,i and r is $km^{-2}$. ...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -508,51 +545,361 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 Missing character: There is no Ë in font cmex10!
-[13 <C:/Users/Nicolas/Documents/Umweltnaturwissenschaften/6Semester/Cholera_Hai
-ti/Github/doc/Cholera_latex/Bilder/figure_model_haiti.png>]
-Missing character: There is no √ in font cmr12!
-Missing character: There is no ® in font cmr12!
-Missing character: There is no √ in font cmr12!
-Missing character: There is no © in font cmr12!
- [14] [15] [16]
-Overfull \hbox (171.66655pt too wide) in paragraph at lines 463--464
-\OT1/cmr/m/n/12 hy-dra-tion so-lu-tion (ORS) sa-chets. (Quelle: http://www.ncbi
-.nlm.nih.gov/pmc/articles/PMC3310585/?tool=pubmed) 
+[11 <./Bilder/figure_model_haiti.png>]
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.319 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.319 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ë in font cmex10!
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
  []
 
+<Bilder/susceptible_mean.png, id=67, 449.68pt x 337.26pt>
+File: Bilder/susceptible_mean.png Graphic file (type png)
 
-(C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
-ithub\doc\Cholera_latex\Cholera_haiti.bbl [17]) [18]
-(C:\Users\Nicolas\Documents\Umweltnaturwissenschaften\6Semester\Cholera_Haiti\G
-ithub\doc\Cholera_latex\Cholera_haiti.aux)
+<use Bilder/susceptible_mean.png>
+Package pdftex.def Info: Bilder/susceptible_mean.png used on input line 391.
+(pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+<Bilder/removed_mean.png, id=68, 449.68pt x 337.26pt>
+File: Bilder/removed_mean.png Graphic file (type png)
 
- ) 
+<use Bilder/removed_mean.png>
+Package pdftex.def Info: Bilder/removed_mean.png used on input line 398.
+(pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
+
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 389--402
+[][]   [] 
+ []
+
+[14] <Bilder/infectious_mean.png, id=72, 449.68pt x 337.26pt>
+File: Bilder/infectious_mean.png Graphic file (type png)
+
+<use Bilder/infectious_mean.png>
+Package pdftex.def Info: Bilder/infectious_mean.png used on input line 412.
+(pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
+
+<Bilder/susceptible.png, id=73, 449.68pt x 337.26pt>
+File: Bilder/susceptible.png Graphic file (type png)
+
+<use Bilder/susceptible.png>
+Package pdftex.def Info: Bilder/susceptible.png used on input line 419.
+(pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
+
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 410--423
+[][]   [] 
+ []
+
+<Bilder/removed.png, id=74, 449.68pt x 337.26pt>
+File: Bilder/removed.png Graphic file (type png)
+ <use Bilder/removed.png>
+Package pdftex.def Info: Bilder/removed.png used on input line 429.
+(pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
+
+<Bilder/infectious.png, id=75, 449.68pt x 337.26pt>
+File: Bilder/infectious.png Graphic file (type png)
+
+<use Bilder/infectious.png>
+Package pdftex.def Info: Bilder/infectious.png used on input line 436.
+(pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
+
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 427--440
+[][]   [] 
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.442 ... $\sum\limits_{j=0}^I  \Theta_{ij}  x_{j$
+                                                   the transmission between ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+LaTeX Warning: File `Bilder/geo_removed.png' not found on input line 449.
+
+
+! Package pdftex.def Error: File `Bilder/geo_removed.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.449 ...width=\textwidth]{Bilder/geo_removed.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./Bilder/susceptible_mean.png (PNG copy)> <./Bilder/removed_mean.png (PNG 
+copy)>]
+Overfull \hbox (251.631pt too wide) in paragraph at lines 492--495
+\OT1/cmr/m/n/12 bu-tion of oral re-hy-dra-tion so-lu-tion (ORS) sa-chets. (Quel
+le: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310585/?tool=pubmed)
+ []
+
+[16] (./Cholera_haiti.bbl) [17] [18 <./Bilder/infectious_mean.png (PNG copy)> <
+./Bilder/susceptible.png (PNG copy)> <./Bilder/removed.png (PNG copy)> <./Bilde
+r/infectious.png (PNG copy)>] [19] (./Cholera_haiti.aux) ) 
 Here is how much of TeX's memory you used:
- 4117 strings out of 494045
- 59566 string characters out of 3148382
- 132343 words of memory out of 3000000
- 7329 multiletter control sequences out of 15000+200000
- 14013 words of font info for 54 fonts, out of 3000000 for 9000
+ 4134 strings out of 493763
+ 59108 string characters out of 3144953
+ 131688 words of memory out of 3000000
+ 7346 multiletter control sequences out of 15000+200000
+ 14181 words of font info for 55 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 42i,12n,24p,1957b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Cholera_haiti.pdf (18 pages, 2695936 bytes).
+ 42i,12n,24p,1970b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2
+010/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/20
+10/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/201
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2010
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2010/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2010/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2010/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2010/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2010/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2010/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2010/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2010/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Cholera_haiti.pdf (19 pages, 711456 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
