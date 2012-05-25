@@ -1,11 +1,12 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces Map of Haiti with the epicenter \cite {wikipedia:map}}}{8}
-\contentsline {figure}{\numberline {2}{\ignorespaces SIWR model represented as a flow diagram. In addition to the SIR model there is a water compartment ($ W $) which becomes contaminated by infectious people and influencing the amount of new infections. Taken from Tien and Earn \cite {tien:2010}.}}{13}
+\contentsline {figure}{\numberline {1}{\ignorespaces Map of Haiti with the epicenter \cite {wikipedia:map}}}{7}
+\contentsline {figure}{\numberline {2}{\ignorespaces SIWR model represented as a flow diagram. In addition to the SIR model there is a water compartment ($ W $) which becomes contaminated by infectious people and influencing the amount of new infections. Taken from Tien and Earn \cite {tien:2010}.}}{12}
 \contentsline {figure}{\numberline {3}{\ignorespaces Illustration of the SIWR model for several districts. Infectious persons do not only have an effect on their own but also on other districts. Taken from Tuite \textit {et al.} \cite {tuite:2011}.}}{15}
-\contentsline {figure}{\numberline {4}{\ignorespaces Illustration of the model built by us to clarify the order of events within the code}}{21}
-\contentsline {figure}{\numberline {5}{\ignorespaces Mean over all districts for the susceptible compartment}}{22}
-\contentsline {figure}{\numberline {6}{\ignorespaces Mean over all districts for the removed compartment}}{22}
-\contentsline {figure}{\numberline {7}{\ignorespaces Mean over all districts for the infectious compartment}}{23}
-\contentsline {figure}{\numberline {8}{\ignorespaces Observed and calculated data for all districts of the susceptible compartment}}{23}
-\contentsline {figure}{\numberline {9}{\ignorespaces Observed and calculated data for all districts of the removed compartment}}{23}
-\contentsline {figure}{\numberline {10}{\ignorespaces Observed and calculated data for all districts of the infectious compartment}}{23}
-\contentsline {figure}{\numberline {11}{\ignorespaces Geographical display of observed and calculated removed data at t=92}}{24}
+\contentsline {figure}{\numberline {4}{\ignorespaces Illustration of the model built by us to clarify the order of events within the code}}{19}
+\contentsline {figure}{\numberline {5}{\ignorespaces Mean over all districts for the susceptible compartment.}}{20}
+\contentsline {figure}{\numberline {6}{\ignorespaces Mean over all districts for the removed compartment.}}{20}
+\contentsline {figure}{\numberline {7}{\ignorespaces Mean over all districts for the infectious compartment.}}{21}
+\contentsline {figure}{\numberline {8}{\ignorespaces Observed and calculated data for all districts of the susceptible compartment. Dashed lines represent observed, continuous lines calculated values.}}{21}
+\contentsline {figure}{\numberline {9}{\ignorespaces Observed and calculated data for all districts of the removed compartment. Dashed lines represent observed, continuous lines calculated values.}}{21}
+\contentsline {figure}{\numberline {10}{\ignorespaces Observed and calculated data for all districts of the infectious compartment. Dashed lines represent observed, continuous lines calculated values.}}{21}
+\contentsline {figure}{\numberline {11}{\ignorespaces $\Theta _{i}$ of each department over time}}{22}
+\contentsline {figure}{\numberline {12}{\ignorespaces Geographical display of observed and calculated removed data at t=92. Observed situation is displayed on the left and calculated situation on the right side.}}{23}
