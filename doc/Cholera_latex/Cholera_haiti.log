@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  25 MAY 2012 17:39
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  25 MAY 2012 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,35 +1070,173 @@ moved data at t=92.
 \tf@lot=\write5
 \openout5 = `Cholera_haiti.lot'.
 
- [26] (./Cholera_haiti.bbl) [27] (./Cholera_haiti.aux) ) 
+ [26] (./Cholera_haiti.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/12 Ministere de la sante publique et de la pop-u-la-tion (mspp).
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 ....newyorkdailytimes.com/news/story/y/75005_
+                                                  as-haiti-
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.12 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/12 As haiti mourns, quake sur-vivor found in rub-ble.
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.12 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+\OT1/cmr/m/n/12 /10/2010102912124470696.htm-lamer-i-cas/2010/10/201010291212447
+0696.html,
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 19--22
+[]\OT1/cmr/m/n/12 Un in-ves-ti-gates haiti out-break.  http://www.aljazeera.com
+/news/africa/2010
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--28
+[]\OT1/cmr/m/n/12 Haiti raises quake death toll on an-niver-sary.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--28
+\OT1/cmr/m/n/12 http://www.cbc.ca/news/world/story/2011/01/12/haiti-anniversary
+-
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.31 \newblock http://en.wikipedia.org/wiki/2010_
+                                                 Haiti_earthquake, 2012.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.32 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.32 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.32 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
+[]\OT1/cmr/m/n/12 James Daniell.  Dam-ag-ing earth-quakes 2010.  http://earthqu
+ake-
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 64--69
+[]\OT1/cmr/m/n/12 Carlos Laur^^S^^Pa.  Haitian jour-nal-ist de-scribes scenes o
+f death and de-struc-
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
+[]\OT1/cmr/m/n/12 Valery E.M. Beau De Rochars.  Knowl-edge, at-ti-tudes, and pr
+ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
+\OT1/cmr/m/n/12 tices re-lated to treat-ment and pre-ven-tion of cholera, haiti
+, 2010.
+ []
+
+) [28] (./Cholera_haiti.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
 Here is how much of TeX's memory you used:
- 5316 strings out of 493633
- 76219 string characters out of 3143378
+ 5317 strings out of 493633
+ 76228 string characters out of 3143378
  161225 words of memory out of 3000000
- 8494 multiletter control sequences out of 15000+200000
+ 8495 multiletter control sequences out of 15000+200000
  14359 words of font info for 55 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  42i,18n,46p,2017b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/201
-1/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmti12.pfb>
-Output written on Cholera_haiti.pdf (27 pages, 2716660 bytes).
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Cholera_haiti.pdf (28 pages, 2720314 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
+ 178 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
