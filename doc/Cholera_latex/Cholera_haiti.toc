@@ -1,21 +1,21 @@
-\contentsline {section}{\numberline {1}Individual contributions}{7}
-\contentsline {section}{\numberline {2}Introduction and Motivation}{8}
-\contentsline {subsection}{\numberline {2.1}Introduction to Haiti, the earthquake and cholera }{8}
-\contentsline {subsection}{\numberline {2.2}Motivation}{9}
-\contentsline {section}{\numberline {3}Description of the Model}{11}
-\contentsline {subsection}{\numberline {3.1}SIR model by Kermack and McKendrick}{11}
-\contentsline {subsection}{\numberline {3.2}SIWR model by Tien and Earn}{12}
-\contentsline {subsection}{\numberline {3.3}Spatially divided SIWR model}{14}
-\contentsline {section}{\numberline {4}Implementation}{17}
-\contentsline {subsection}{\numberline {4.1}Problems with rescaling}{17}
-\contentsline {subsection}{\numberline {4.2}Data from the MSPP}{17}
-\contentsline {subsection}{\numberline {4.3}Differential equations}{18}
-\contentsline {subsection}{\numberline {4.4}Creation of the solver}{18}
-\contentsline {subsection}{\numberline {4.5}Initial conditions}{20}
-\contentsline {section}{\numberline {5}Simulation results and discussion}{22}
-\contentsline {subsection}{\numberline {5.1}Results of the SIR model}{22}
-\contentsline {subsection}{\numberline {5.2}Discussion}{24}
-\contentsline {section}{\numberline {6}Summary and Outlook}{26}
-\contentsline {subsection}{\numberline {6.1}Summary}{26}
-\contentsline {subsection}{\numberline {6.2}Outlook}{26}
-\contentsline {section}{\numberline {7}References}{28}
+\contentsline {section}{\numberline {1}Individual contributions}{6}
+\contentsline {section}{\numberline {2}Introduction and Motivation}{7}
+\contentsline {subsection}{\numberline {2.1}Introduction to Haiti, the earthquake and cholera }{7}
+\contentsline {subsection}{\numberline {2.2}Motivation}{8}
+\contentsline {section}{\numberline {3}Description of the Model}{10}
+\contentsline {subsection}{\numberline {3.1}SIR model by Kermack and McKendrick}{10}
+\contentsline {subsection}{\numberline {3.2}SIWR model by Tien and Earn}{11}
+\contentsline {subsection}{\numberline {3.3}Spatially divided SIWR model}{13}
+\contentsline {section}{\numberline {4}Implementation}{15}
+\contentsline {subsection}{\numberline {4.1}Problems with rescaling}{15}
+\contentsline {subsection}{\numberline {4.2}Data from the MSPP}{16}
+\contentsline {subsection}{\numberline {4.3}Differential equations}{16}
+\contentsline {subsection}{\numberline {4.4}Creation of the solver}{17}
+\contentsline {subsection}{\numberline {4.5}Initial conditions}{18}
+\contentsline {section}{\numberline {5}Simulation results and discussion}{20}
+\contentsline {subsection}{\numberline {5.1}Results of the SIR model}{20}
+\contentsline {subsection}{\numberline {5.2}Discussion}{23}
+\contentsline {section}{\numberline {6}Summary and Outlook}{25}
+\contentsline {subsection}{\numberline {6.1}Summary}{25}
+\contentsline {subsection}{\numberline {6.2}Outlook}{25}
+\contentsline {section}{\numberline {7}References}{27}

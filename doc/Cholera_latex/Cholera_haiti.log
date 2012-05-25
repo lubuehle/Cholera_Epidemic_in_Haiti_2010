@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  25 MAY 2012 13:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  25 MAY 2012 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -303,83 +303,7 @@ File: pppdftex.def 2011/03/10 v0.4n Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count113
 \AM@templatesizebox=\box32
 )
-(./Cholera_haiti.aux
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.107 <
-       <<<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Label `pic:flow_diagram' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRrescaled_susceptible' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRrescaled_infectious' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRrescaled_removed' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRrescaled_water' multiply defined.
-
-
-LaTeX Warning: Label `pic:model_departments' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRdepartments_susceptible' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRdepartments_infectious' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRdepartments_removed' multiply defined.
-
-
-LaTeX Warning: Label `eq:SIWRdepartments_water' multiply defined.
-
-
-LaTeX Warning: Label `eq:rep_number' multiply defined.
-
-
-LaTeX Warning: Label `eq:lambda' multiply defined.
-
-
-LaTeX Warning: Label `eq:sir_susceptible' multiply defined.
-
-
-LaTeX Warning: Label `eq:sir_infectious' multiply defined.
-
-
-LaTeX Warning: Label `eq:sir_removed' multiply defined.
-
-
-LaTeX Warning: Label `sec:creation of the solver' multiply defined.
-
-
-LaTeX Warning: Label `tab:solverbuild' multiply defined.
-
-
-LaTeX Warning: Label `sec:initial conditions' multiply defined.
-
-
-Package natbib Warning: Citation `kermack:1927' multiply defined.
-
-
-Package natbib Warning: Citation `tien:2010' multiply defined.
-
-
-Package natbib Warning: Citation `tuite:2011' multiply defined.
-
-)
+(./Cholera_haiti.aux)
 \openout1 = `Cholera_haiti.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -517,69 +441,21 @@ File: Bilder/declaration_of_originality.png Graphic file (type png)
 Package pdftex.def Info: Bilder/declaration_of_originality.png used on input li
 ne 96.
 (pdftex.def)             Requested size: 483.3129pt x 795.57677pt.
- [3 <./Bilder/declaration_of_originality.png>] [4] (./Cholera_haiti.toc
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...\numberline {1}Individual contributions}{6}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...\numberline {1}Individual contributions}{6}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ...line {section}{\numberline {1}Abstract}{5}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ...line {section}{\numberline {1}Abstract}{5}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[5])
+ [3 <./Bilder/declaration_of_originality.png>] [4] (./Cholera_haiti.toc)
 \tf@toc=\write3
 \openout3 = `Cholera_haiti.toc'.
 
- [6]
+ [5]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 128.
 
- (/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 128.
- [7]
-<Bilder/KarteHaiti.png, id=37, 226.9278pt x 243.7908pt>
+ [6]
+<Bilder/KarteHaiti.png, id=34, 226.9278pt x 243.7908pt>
 File: Bilder/KarteHaiti.png Graphic file (type png)
 
 <use Bilder/KarteHaiti.png>
@@ -590,7 +466,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 156--157
 \OT1/cmr/m/n/12 fault sys-tem here with the south-ern
  []
 
-[8 <./Bilder/KarteHaiti.png>]
+[7 <./Bilder/KarteHaiti.png>]
 Missing character: There is no ‚ in font cmti12!
 Missing character: There is no Ä in font cmti12!
 Missing character: There is no ú in font cmti12!
@@ -609,7 +485,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [9] [10]
+ [8] [9]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -628,7 +504,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-[11]
+[10]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -642,7 +518,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Bilder/flow_diagram_SIWR.png, id=55, 811.03pt x 476.78125pt>
+<Bilder/flow_diagram_SIWR.png, id=52, 811.03pt x 476.78125pt>
 File: Bilder/flow_diagram_SIWR.png Graphic file (type png)
 
 <use Bilder/flow_diagram_SIWR.png>
@@ -658,7 +534,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--237
 
  []
 
-[12]
+[11]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -685,7 +561,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[13 <./Bilder/flow_diagram_SIWR.png>]
+[12 <./Bilder/flow_diagram_SIWR.png>] [13]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -705,7 +581,6 @@ Overfull \hbox (6.45566pt too wide) in paragraph at lines 282--283
  may give a bet-ter overview
  []
 
-[14]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -793,42 +668,28 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Bilder/figure_model_haiti.png, id=70, 358.31467pt x 235.74474pt>
+<Bilder/figure_model_haiti.png, id=67, 358.31467pt x 235.74474pt>
 File: Bilder/figure_model_haiti.png Graphic file (type png)
 
 <use Bilder/figure_model_haiti.png>
 Package pdftex.def Info: Bilder/figure_model_haiti.png used on input line 300.
 (pdftex.def)             Requested size: 322.48021pt x 212.16829pt.
- [15 <./Bilder/figure_model_haiti.png>]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.319 \newline
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[16]
+ [14]
 ! Too many }'s.
 <recently read> }
                  
-l.333 ... of equation \eqref{eq:SIWR_susceptible}}
+l.332 ... of equation \eqref{eq:SIWR_susceptible}}
                                                    there already seems to be...
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 
-LaTeX Warning: Command \. invalid in math mode on input line 333.
+LaTeX Warning: Command \. invalid in math mode on input line 332.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.333 ...me contradiction. The dimension of $\.{s}
+l.332 ...me contradiction. The dimension of $\.{s}
                                                   $,s,i and r is $km^{-2}$. ...
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -836,7 +697,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.333 ...me contradiction. The dimension of $\.{s}
+l.332 ...me contradiction. The dimension of $\.{s}
                                                   $,s,i and r is $km^{-2}$. ...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -844,7 +705,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 Missing character: There is no Ë in font cmex10!
-[17]
+[15 <./Bilder/figure_model_haiti.png>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -852,7 +713,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.357 \newline
+l.356 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -861,7 +722,7 @@ or  <return>  to continue without it.
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -869,7 +730,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -880,7 +741,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -888,7 +749,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -899,7 +760,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -907,7 +768,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -918,7 +779,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -926,7 +787,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -937,7 +798,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -945,7 +806,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -956,7 +817,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -964,7 +825,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -975,7 +836,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -983,7 +844,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -994,7 +855,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -1002,7 +863,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1013,7 +874,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -1021,7 +882,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1032,7 +893,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -1040,7 +901,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1051,7 +912,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -1059,7 +920,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1070,7 +931,7 @@ Missing character: There is no Ë in font cmex10!
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -1078,7 +939,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.371 \end{empheq}
+l.370 \end{empheq}
                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1086,6 +947,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 Missing character: There is no Ë in font cmex10!
+[16]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1093,80 +955,86 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.374 \newline
+l.373 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[18] [19] <Bilder/Matlab_program.png, id=91, 620.5584pt x 491.9178pt>
+[17] <Bilder/Matlab_program.png, id=84, 620.5584pt x 491.9178pt>
 File: Bilder/Matlab_program.png Graphic file (type png)
 
 <use Bilder/Matlab_program.png>
-Package pdftex.def Info: Bilder/Matlab_program.png used on input line 440.
+Package pdftex.def Info: Bilder/Matlab_program.png used on input line 439.
 (pdftex.def)             Requested size: 372.3379pt x 295.15295pt.
- [20] [21 <./Bilder/Matlab_program.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+ [18] [19 <./Bilder/Matlab_program.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
 
  []
 
-<Bilder/susceptible_mean.png, id=98, 449.68pt x 337.26pt>
+<Bilder/susceptible_mean.png, id=92, 449.68pt x 337.26pt>
 File: Bilder/susceptible_mean.png Graphic file (type png)
 
 <use Bilder/susceptible_mean.png>
-Package pdftex.def Info: Bilder/susceptible_mean.png used on input line 458.
+Package pdftex.def Info: Bilder/susceptible_mean.png used on input line 457.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/removed_mean.png, id=99, 449.68pt x 337.26pt>
+<Bilder/removed_mean.png, id=93, 449.68pt x 337.26pt>
 File: Bilder/removed_mean.png Graphic file (type png)
 
 <use Bilder/removed_mean.png>
-Package pdftex.def Info: Bilder/removed_mean.png used on input line 465.
+Package pdftex.def Info: Bilder/removed_mean.png used on input line 464.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-Overfull \hbox (4.87321pt too wide) in paragraph at lines 456--469
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 455--468
 [][]   [] 
  []
 
-<Bilder/infectious_mean.png, id=100, 449.68pt x 337.26pt>
+<Bilder/infectious_mean.png, id=94, 449.68pt x 337.26pt>
 File: Bilder/infectious_mean.png Graphic file (type png)
 
 <use Bilder/infectious_mean.png>
-Package pdftex.def Info: Bilder/infectious_mean.png used on input line 479.
+Package pdftex.def Info: Bilder/infectious_mean.png used on input line 478.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/susceptible.png, id=101, 449.68pt x 337.26pt>
+<Bilder/susceptible.png, id=95, 449.68pt x 337.26pt>
 File: Bilder/susceptible.png Graphic file (type png)
 
 <use Bilder/susceptible.png>
-Package pdftex.def Info: Bilder/susceptible.png used on input line 486.
+Package pdftex.def Info: Bilder/susceptible.png used on input line 485.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-Overfull \hbox (4.87321pt too wide) in paragraph at lines 477--490
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 476--489
 [][]   [] 
  []
 
-<Bilder/removed.png, id=102, 449.68pt x 337.26pt>
+<Bilder/removed.png, id=96, 449.68pt x 337.26pt>
 File: Bilder/removed.png Graphic file (type png)
  <use Bilder/removed.png>
-Package pdftex.def Info: Bilder/removed.png used on input line 496.
+Package pdftex.def Info: Bilder/removed.png used on input line 495.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/infectious.png, id=103, 449.68pt x 337.26pt>
+<Bilder/infectious.png, id=97, 449.68pt x 337.26pt>
 File: Bilder/infectious.png Graphic file (type png)
 
 <use Bilder/infectious.png>
-Package pdftex.def Info: Bilder/infectious.png used on input line 503.
+Package pdftex.def Info: Bilder/infectious.png used on input line 502.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-Overfull \hbox (4.87321pt too wide) in paragraph at lines 494--507
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 493--506
 [][]   [] 
  []
+
+<Bilder/coeff.png, id=98, 449.68pt x 337.26pt>
+File: Bilder/coeff.png Graphic file (type png)
+ <use Bilder/coeff.png>
+Package pdftex.def Info: Bilder/coeff.png used on input line 512.
+(pdftex.def)             Requested size: 430.00462pt x 322.5154pt.
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.509 ... $\sum\limits_{j=0}^I  \Theta_{ij}  x_{j$
+l.518 ... $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$
                                                    the transmission between ...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1174,20 +1042,27 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[22 <./Bilder/susceptible_mean.png (PNG copy)> <./Bilder/removed_mean.png (PNG 
-copy)>] [23 <./Bilder/infectious_mean.png (PNG copy)> <./Bilder/susceptible.png
+[20 <./Bilder/susceptible_mean.png (PNG copy)> <./Bilder/removed_mean.png (PNG 
+copy)>] [21 <./Bilder/infectious_mean.png (PNG copy)> <./Bilder/susceptible.png
  (PNG copy)> <./Bilder/removed.png (PNG copy)> <./Bilder/infectious.png (PNG co
-py)>] <Bilder/geo_removed.png, id=110, 621.82312pt x 199.49532pt>
+py)>] [22 <./Bilder/coeff.png (PNG copy)>]
+<Bilder/geo_removed.png, id=108, 621.82312pt x 199.49532pt>
 File: Bilder/geo_removed.png Graphic file (type png)
 
 <use Bilder/geo_removed.png>
-Package pdftex.def Info: Bilder/geo_removed.png used on input line 516.
+Package pdftex.def Info: Bilder/geo_removed.png used on input line 525.
 (pdftex.def)             Requested size: 430.00462pt x 137.9563pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
- [24 <./Bilder/geo_removed.png>] [25] [26]
-(./Cholera_haiti.lof)
+ [23 <./Bilder/geo_removed.png>] [24] [25]
+(./Cholera_haiti.lof
+Overfull \hbox (0.57848pt too wide) in paragraph at lines 12--12
+ [][] []\OT1/cmr/m/n/12 Geographical dis-play of ob-served and cal-cu-lated re-
+moved data at t=92. 
+ []
+
+)
 \tf@lof=\write4
 \openout4 = `Cholera_haiti.lof'.
 
@@ -1195,47 +1070,35 @@ Missing character: There is no ì in font cmr12!
 \tf@lot=\write5
 \openout5 = `Cholera_haiti.lot'.
 
- [27] (./Cholera_haiti.bbl)
-
-Package natbib Warning: There were multiply defined citations.
-
-[28] (./Cholera_haiti.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+ [26] (./Cholera_haiti.bbl) [27] (./Cholera_haiti.aux) ) 
 Here is how much of TeX's memory you used:
- 5310 strings out of 493633
- 76116 string characters out of 3143378
- 161360 words of memory out of 3000000
- 8489 multiletter control sequences out of 15000+200000
+ 5316 strings out of 493633
+ 76219 string characters out of 3143378
+ 161225 words of memory out of 3000000
+ 8494 multiletter control sequences out of 15000+200000
  14359 words of font info for 55 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,18n,46p,2016b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
-/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
-ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
-exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
-ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Cholera_haiti.pdf (28 pages, 2708967 bytes).
+ 42i,18n,46p,2017b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/201
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on Cholera_haiti.pdf (27 pages, 2716660 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
+ 175 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
