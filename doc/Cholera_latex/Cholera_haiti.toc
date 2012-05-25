@@ -1,40 +1,21 @@
-<<<<<<< HEAD
-\contentsline {section}{\numberline {1}Individual contributions}{6}
-\contentsline {section}{\numberline {2}Introduction and Motivation}{7}
-\contentsline {subsection}{\numberline {2.1}Introduction to Haiti, the earthquake and cholera }{7}
-\contentsline {subsection}{\numberline {2.2}Motivation}{8}
-\contentsline {section}{\numberline {3}Description of the Model}{10}
-\contentsline {subsection}{\numberline {3.1}SIR model by Kermack and McKendrick}{10}
-\contentsline {subsection}{\numberline {3.2}SIWR model by Tien and Earn}{11}
-\contentsline {subsection}{\numberline {3.3}Spatially divided SIWR model}{13}
-\contentsline {section}{\numberline {4}Implementation}{16}
-\contentsline {subsection}{\numberline {4.1}Problems with rescaling}{16}
-\contentsline {subsection}{\numberline {4.2}Data from the MSPP}{16}
-\contentsline {subsection}{\numberline {4.3}Differential equations}{17}
-\contentsline {subsection}{\numberline {4.4}Creation of the solver}{17}
-\contentsline {subsection}{\numberline {4.5}Initial conditions}{19}
-\contentsline {section}{\numberline {5}Simulation results and discussion}{21}
-\contentsline {subsection}{\numberline {5.1}Results of the SIR model}{21}
-\contentsline {subsection}{\numberline {5.2}Discussion}{23}
-\contentsline {section}{\numberline {6}Summary and Outlook}{25}
-\contentsline {subsection}{\numberline {6.1}Summary}{25}
-\contentsline {subsection}{\numberline {6.2}Outlook}{25}
-\contentsline {section}{\numberline {7}References}{27}
-=======
-\contentsline {section}{\numberline {1}Abstract}{5}
-\contentsline {section}{\numberline {2}Individual contributions}{5}
-\contentsline {section}{\numberline {3}Introduction and Motivations}{5}
-\contentsline {subsection}{\numberline {3.1}Introduction to Haiti, the earthquake and Cholera }{5}
-\contentsline {subsection}{\numberline {3.2}Motivation}{7}
-\contentsline {section}{\numberline {4}Description of the Model}{7}
-\contentsline {section}{\numberline {5}Implementation}{12}
-\contentsline {subsection}{\numberline {5.1}Problems with rescaling}{12}
-\contentsline {subsection}{\numberline {5.2}Data from the MSPP}{12}
-\contentsline {subsection}{\numberline {5.3}Differential equations}{13}
-\contentsline {subsection}{\numberline {5.4}Creation of the solver}{14}
-\contentsline {subsection}{\numberline {5.5}Initial conditions}{15}
-\contentsline {section}{\numberline {6}Simulation Results and Discussion}{15}
-\contentsline {section}{\numberline {7}Summary and Outlook}{15}
-\contentsline {subsection}{\numberline {7.1}Outlook}{15}
-\contentsline {section}{\numberline {8}References}{16}
->>>>>>> update
+\contentsline {section}{\numberline {1}Individual contributions}{7}
+\contentsline {section}{\numberline {2}Introduction and Motivation}{8}
+\contentsline {subsection}{\numberline {2.1}Introduction to Haiti, the earthquake and cholera }{8}
+\contentsline {subsection}{\numberline {2.2}Motivation}{9}
+\contentsline {section}{\numberline {3}Description of the Model}{11}
+\contentsline {subsection}{\numberline {3.1}SIR model by Kermack and McKendrick}{11}
+\contentsline {subsection}{\numberline {3.2}SIWR model by Tien and Earn}{12}
+\contentsline {subsection}{\numberline {3.3}Spatially divided SIWR model}{14}
+\contentsline {section}{\numberline {4}Implementation}{17}
+\contentsline {subsection}{\numberline {4.1}Problems with rescaling}{17}
+\contentsline {subsection}{\numberline {4.2}Data from the MSPP}{17}
+\contentsline {subsection}{\numberline {4.3}Differential equations}{18}
+\contentsline {subsection}{\numberline {4.4}Creation of the solver}{18}
+\contentsline {subsection}{\numberline {4.5}Initial conditions}{20}
+\contentsline {section}{\numberline {5}Simulation results and discussion}{22}
+\contentsline {subsection}{\numberline {5.1}Results of the SIR model}{22}
+\contentsline {subsection}{\numberline {5.2}Discussion}{24}
+\contentsline {section}{\numberline {6}Summary and Outlook}{26}
+\contentsline {subsection}{\numberline {6.1}Summary}{26}
+\contentsline {subsection}{\numberline {6.2}Outlook}{26}
+\contentsline {section}{\numberline {7}References}{28}
