@@ -2,7 +2,7 @@ function [ gamma, betax, kappa, minssq, smeanmod, xmeanmod, rmeanmod] = haiti_ca
 
 %HAITI_CALC 
 %   This file is used to calculate the matrices for the compartments s, x
-%   and r. 
+%   and r receiving the initial values from the Initialisation file. 
 
 
 
