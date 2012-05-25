@@ -1,45 +1,74 @@
-This is BibTeX, Version 0.99d (TeX Live 2011)
+This is BibTeX, Version 0.99d (TeX Live 2010)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Cholera_haiti.aux
 The style file: plain.bst
 Database file #1: Citations/cholera.bib.bib
-Warning--I didn't find a database entry for "aqua"
+Warning--entry type for "web:ors" isn't style-file defined
+--line 12 of file Citations/cholera.bib.bib
+Warning--entry type for "web:appo" isn't style-file defined
+--line 18 of file Citations/cholera.bib.bib
+Warning--entry type for "web:wikipedia_infra" isn't style-file defined
+--line 40 of file Citations/cholera.bib.bib
+Warning--entry type for "wikipedia:map" isn't style-file defined
+--line 49 of file Citations/cholera.bib.bib
+Warning--entry type for "web:alj2" isn't style-file defined
+--line 58 of file Citations/cholera.bib.bib
+Warning--entry type for "web:alj" isn't style-file defined
+--line 65 of file Citations/cholera.bib.bib
+Warning--entry type for "web:MSPP" isn't style-file defined
+--line 71 of file Citations/cholera.bib.bib
+Warning--entry type for "web:unicef" isn't style-file defined
+--line 77 of file Citations/cholera.bib.bib
+Warning--entry type for "web:bbc1" isn't style-file defined
+--line 83 of file Citations/cholera.bib.bib
+Warning--entry type for "web:ear" isn't style-file defined
+--line 89 of file Citations/cholera.bib.bib
+Warning--entry type for "web:cbc1" isn't style-file defined
+--line 95 of file Citations/cholera.bib.bib
+Warning--entry type for "nyt:mag" isn't style-file defined
+--line 101 of file Citations/cholera.bib.bib
 Warning--to sort, need author or key in wikipedia:map
 Warning--to sort, need author or key in nyt:mag
 Warning--to sort, need author or key in web:cbc1
+Warning--to sort, need author or key in web:ear
+Warning--to sort, need author or key in web:bbc1
+Warning--to sort, need author or key in web:unicef
+Warning--to sort, need author or key in web:wikipedia_infra
 Warning--to sort, need author or key in web:MSPP
 Warning--to sort, need author or key in web:alj
 Warning--to sort, need author or key in web:alj2
+Warning--to sort, need author or key in web:appo
+Warning--to sort, need author or key in web:ors
 You've used 16 entries,
             2118 wiz_defined-function locations,
-            584 strings with 6763 characters,
-and the built_in function-call counts, 3756 in all, are:
-= -- 361
-> -- 120
+            552 strings with 5233 characters,
+and the built_in function-call counts, 3198 in all, are:
+= -- 248
+> -- 84
 < -- 0
-+ -- 52
-- -- 36
-* -- 206
-:= -- 578
-add.period$ -- 42
++ -- 40
+- -- 24
+* -- 199
+:= -- 399
+add.period$ -- 24
 call.type$ -- 16
-change.case$ -- 66
+change.case$ -- 48
 chr.to.int$ -- 0
-cite$ -- 22
+cite$ -- 28
 duplicate$ -- 128
-empty$ -- 389
-format.name$ -- 36
-if$ -- 834
+empty$ -- 395
+format.name$ -- 24
+if$ -- 715
 int.to.chr$ -- 0
 int.to.str$ -- 16
 missing$ -- 4
-newline$ -- 77
-num.names$ -- 20
-pop$ -- 112
+newline$ -- 59
+num.names$ -- 8
+pop$ -- 116
 preamble$ -- 1
-purify$ -- 50
+purify$ -- 44
 quote$ -- 0
-skip$ -- 115
+skip$ -- 166
 stack$ -- 0
 substring$ -- 194
 swap$ -- 16
@@ -47,8 +76,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 64
-warning$ -- 6
-while$ -- 24
+warning$ -- 12
+while$ -- 12
 width$ -- 18
-write$ -- 153
-(There were 7 warnings)
+write$ -- 96
+(There were 24 warnings)

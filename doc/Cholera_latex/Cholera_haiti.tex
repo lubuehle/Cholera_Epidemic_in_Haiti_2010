@@ -10,8 +10,8 @@
 \usepackage{wrapfig}
 \usepackage{empheq}
 \usepackage{pdfpages}
-\usepackage{hyperref}
-\usepackage{url}
+
+
 
 \begin{document}
 
@@ -150,7 +150,7 @@ Following the earthquake on 12 January 2010, a cholera epidemic broke out in the
 \end{wrapfigure}
 
 
-12 January 2010, 16.53 local time in Haiti: for an entire minute the earth shook, with a magnitude of 7.0 (on the Moment magnitude scale), with an epicenter 25 km west of Haiti's capital, Port-au-Prince \cite{nyt:mag}. Followed by at least 52 aftershocks,  this earthquake was the most dramatic in the 21st century: the Haitian government estimated that 316,000 people died \cite{web:cbc1}, one million people lost their homes, and 3.2 million were directly affected. \cite{web:ear}
+12 January 2010, 16.53 local time in Haiti: for an entire minute the earth shook, with a magnitude of 7.0 (on the Moment magnitude scale), with an epicenter 25 km west of Haiti's capital, Port-au-Prince. \cite{nyt:mag} Followed by at least 52 aftershocks,  this earthquake was the most dramatic in the 21st century: the Haitian government estimated that 316,000 people died \cite{web:cbc1}, one million people lost their homes, and 3.2 million were directly affected. \cite{web:ear}
 
 \subsubsection*{Geological overview}
 The earthquake was located on the active plate boundary, with the Caribbean Tectonic Plate shifting eastwards relative to the North American Plate. This caused a highly dangerous strike-slip-fault system here with the southern active Enriquillo-Plantain-Garden-fault. The earthquake was caused by a rupture of this system, which has been blocked for the past 2500 years, loading stress. \cite{web:bbc1}
@@ -506,7 +506,17 @@ The plots \ref{fig:all_susceptible}, \ref{fig:all_removed} and \ref{fig:all_infe
   \end{minipage}
 \end{figure}
 
-One of the benefits of our simple model is the possibility to compare the effect of transmission within the same district versus transmission between districts. The force of infection $\lambda$ consists of two parts, as seen in equation \ref{eq:lambda}. Here $\beta_{I}x_{i}$ represents the transmission within the same district and $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$ the transmission between compartments. Figure XX shows the interdepartmental transmission coefficients over time. The best fit of $\beta_{I}=3.9114$ is always around $10^4$ times bigger. This predicts that in our model the transmission within the same district is much more important than the interdepartmental transmission.
+\begin{figure}
+  %\centering
+  \begin{minipage}[t]{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Bilder/coeff.png} 
+    \caption{$\Theta_{i}$ of each department over time}
+	\label{fig:coeff}
+  \end{minipage}
+\end{figure}
+
+One of the benefits of our simple model is the possibility to compare the effect of transmission within the same district versus transmission between districts. The force of infection $\lambda$ consists of two parts, as seen in equation \ref{eq:lambda}. Here $\beta_{I}x_{i}$ represents the transmission within the same district and $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$ the transmission between compartments. Figure \ref{fig:coeff} shows the interdepartmental transmission coefficients over time. The best fit of $\beta_{I}=3.9114$ is always around $10^4$ times bigger. This predicts that in our model the transmission within the same district is much more important than the interdepartmental transmission.
 
 
 \begin{figure}
@@ -519,7 +529,7 @@ One of the benefits of our simple model is the possibility to compare the effect
   \end{minipage}
 \end{figure}
 
-Figure \ref{fig:geo_removed} shows the spread of the removed compartment on the 1st of January 2011. Our model predicts the spatial spread of the disease to some extent. After the change of initial conditions in the infectious compartment for the district Grand Anse we were able to also predict the spread in the far west. Our calculated least-infected districts are Sud and Nippes. The observed data show that they are further to the east, namely Ouest and Sud-Est. Our model also calculates the highest-infected district to be Artibonite, whereas the observed data shows that they are Nord-Est and Nord.
+Figure \ref{fig:geo_removed} shows the spread of the removed compartment on the 31st of January 2011. Our model predicts the spatial spread of the disease to some extent. After the change of initial conditions in the infectious compartment for the district Grand Anse we were able to also predict the spread in the far west. Our calculated least-infected districts are Sud and Nippes. The observed data show that they are further to the east, namely Ouest and Sud-Est. Our model also calculates the highest-infected district to be Artibonite, whereas the observed data shows that they are Nord-Est and Nord.
 
 
 

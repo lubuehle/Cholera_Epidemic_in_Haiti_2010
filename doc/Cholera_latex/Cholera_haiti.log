@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  25 MAY 2012 17:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  25 MAY 2012 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -303,98 +303,83 @@ File: pppdftex.def 2011/03/10 v0.4n Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count113
 \AM@templatesizebox=\box32
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+(./Cholera_haiti.aux
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+! LaTeX Error: Missing \begin{document}.
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
-Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
-Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
-Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
-Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
-Package atveryend Info: \enddocument detected (standard).
-Package hobsub Info: Skipping package `atbegshi' (already loaded).
-Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
-)
-\@linkdim=\dimen138
-\Hy@linkcounter=\count114
-\Hy@pagecounter=\count115
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 <
+       <<<<<< HEAD
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
-)
-\Hy@SavedSpaceFactor=\count116
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4026.
-Package hyperref Info: Link nesting OFF on input line 4031.
-Package hyperref Info: Hyper index ON on input line 4034.
-Package hyperref Info: Plain pages OFF on input line 4041.
-Package hyperref Info: Backreferencing OFF on input line 4046.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4264.
-\c@Hy@tempcnt=\count117
+LaTeX Warning: Label `pic:flow_diagram' multiply defined.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 4617.
-\Fld@menulength=\count118
-\Field@Width=\dimen139
-\Fld@charsize=\dimen140
-Package hyperref Info: Hyper figures OFF on input line 5701.
-Package hyperref Info: Link nesting OFF on input line 5706.
-Package hyperref Info: Hyper index ON on input line 5709.
-Package hyperref Info: backreferencing OFF on input line 5716.
-Package hyperref Info: Link coloring OFF on input line 5721.
-Package hyperref Info: Link coloring with OCG OFF on input line 5726.
-Package hyperref Info: PDF/A mode OFF on input line 5731.
-LaTeX Info: Redefining \ref on input line 5771.
-LaTeX Info: Redefining \pageref on input line 5775.
-\Hy@abspage=\count119
-\c@Item=\count120
-\c@Hfootnote=\count121
-)
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+LaTeX Warning: Label `eq:SIWRrescaled_susceptible' multiply defined.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
-\Fld@listcount=\count122
-\c@bookmark@seq@number=\count123
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
+LaTeX Warning: Label `eq:SIWRrescaled_infectious' multiply defined.
+
+
+LaTeX Warning: Label `eq:SIWRrescaled_removed' multiply defined.
+
+
+LaTeX Warning: Label `eq:SIWRrescaled_water' multiply defined.
+
+
+LaTeX Warning: Label `pic:model_departments' multiply defined.
+
+
+LaTeX Warning: Label `eq:SIWRdepartments_susceptible' multiply defined.
+
+
+LaTeX Warning: Label `eq:SIWRdepartments_infectious' multiply defined.
+
+
+LaTeX Warning: Label `eq:SIWRdepartments_removed' multiply defined.
+
+
+LaTeX Warning: Label `eq:SIWRdepartments_water' multiply defined.
+
+
+LaTeX Warning: Label `eq:rep_number' multiply defined.
+
+
+LaTeX Warning: Label `eq:lambda' multiply defined.
+
+
+LaTeX Warning: Label `eq:sir_susceptible' multiply defined.
+
+
+LaTeX Warning: Label `eq:sir_infectious' multiply defined.
+
+
+LaTeX Warning: Label `eq:sir_removed' multiply defined.
+
+
+LaTeX Warning: Label `sec:creation of the solver' multiply defined.
+
+
+LaTeX Warning: Label `tab:solverbuild' multiply defined.
+
+
+LaTeX Warning: Label `sec:initial conditions' multiply defined.
+
+
+Package natbib Warning: Citation `kermack:1927' multiply defined.
+
+
+Package natbib Warning: Citation `tien:2010' multiply defined.
+
+
+Package natbib Warning: Citation `tuite:2011' multiply defined.
+
 )
-\Hy@SectionHShift=\skip52
-)
-(./Cholera_haiti.aux)
 \openout1 = `Cholera_haiti.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -408,8 +393,6 @@ LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
@@ -448,36 +431,20 @@ LaTeX Font Info:    ... okay on input line 16.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count124
-\scratchdimen=\dimen141
+\scratchcounter=\count114
+\scratchdimen=\dimen138
 \scratchbox=\box33
-\nofMPsegments=\count125
-\nofMParguments=\count126
+\nofMPsegments=\count115
+\nofMParguments=\count116
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count127
-\MPscratchDim=\dimen142
-\MPnumerator=\count128
-\makeMPintoPDFobject=\count129
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen139
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
 \everyMPtoPDFconversion=\toks25
 )
+\Hy@linkcounter=\count120
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 16.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-)
-\c@section@level=\count130
-)
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
-
-(./Cholera_haiti.out) (./Cholera_haiti.out)
-\@outlinefile=\write3
-\openout3 = `Cholera_haiti.out'.
-
  (./cover.tex
 Package epstopdf Info: Source file: <Bilder/ETHlogo.eps>
 (epstopdf)                    date: 2012-05-25 13:10:05
@@ -490,7 +457,7 @@ ed-to.pdf Bilder/ETHlogo.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bilder/ETHlogo-eps-converted-to.pdf, id=88, 179.67125pt x 45.16875pt>
+<Bilder/ETHlogo-eps-converted-to.pdf, id=1, 179.67125pt x 45.16875pt>
 File: Bilder/ETHlogo-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bilder/ETHlogo-eps-converted-to.pdf>
@@ -519,7 +486,7 @@ Overfull \hbox (5.3226pt too wide) in paragraph at lines 66--85
  [][] 
  []
 
-[2] <Bilder/declaration_of_originality.png, id=107, 614.65636pt x 1011.78pt>
+[2] <Bilder/declaration_of_originality.png, id=18, 614.65636pt x 1011.78pt>
 File: Bilder/declaration_of_originality.png Graphic file (type png)
 
 <use Bilder/declaration_of_originality.png>
@@ -550,21 +517,69 @@ File: Bilder/declaration_of_originality.png Graphic file (type png)
 Package pdftex.def Info: Bilder/declaration_of_originality.png used on input li
 ne 96.
 (pdftex.def)             Requested size: 483.3129pt x 795.57677pt.
- [3 <./Bilder/declaration_of_originality.png>] [4] (./Cholera_haiti.toc)
-\tf@toc=\write4
-\openout4 = `Cholera_haiti.toc'.
+ [3 <./Bilder/declaration_of_originality.png>] [4] (./Cholera_haiti.toc
 
- [5]
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...\numberline {1}Individual contributions}{6}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...\numberline {1}Individual contributions}{6}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...line {section}{\numberline {1}Abstract}{5}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...line {section}{\numberline {1}Abstract}{5}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5])
+\tf@toc=\write3
+\openout3 = `Cholera_haiti.toc'.
+
+ [6]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 128.
 
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 128.
- [6]
-<Bilder/KarteHaiti.png, id=150, 226.9278pt x 243.7908pt>
+ [7]
+<Bilder/KarteHaiti.png, id=37, 226.9278pt x 243.7908pt>
 File: Bilder/KarteHaiti.png Graphic file (type png)
 
 <use Bilder/KarteHaiti.png>
@@ -575,7 +590,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 156--157
 \OT1/cmr/m/n/12 fault sys-tem here with the south-ern
  []
 
-[7 <./Bilder/KarteHaiti.png>]
+[8 <./Bilder/KarteHaiti.png>]
 Missing character: There is no ‚ in font cmti12!
 Missing character: There is no Ä in font cmti12!
 Missing character: There is no ú in font cmti12!
@@ -594,7 +609,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [8] [9]
+ [9] [10]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -613,7 +628,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-[10]
+[11]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -627,7 +642,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Bilder/flow_diagram_SIWR.png, id=214, 811.03pt x 476.78125pt>
+<Bilder/flow_diagram_SIWR.png, id=55, 811.03pt x 476.78125pt>
 File: Bilder/flow_diagram_SIWR.png Graphic file (type png)
 
 <use Bilder/flow_diagram_SIWR.png>
@@ -643,7 +658,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--237
 
  []
 
-[11]
+[12]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -670,7 +685,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[12 <./Bilder/flow_diagram_SIWR.png>] [13]
+[13 <./Bilder/flow_diagram_SIWR.png>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -690,6 +705,7 @@ Overfull \hbox (6.45566pt too wide) in paragraph at lines 282--283
  may give a bet-ter overview
  []
 
+[14]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -698,35 +714,13 @@ l.288
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.288 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
 ! Display math should end with $$.
 <to be read again> 
-                   \@@par 
+                   \par 
 l.288 
       
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.288 
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
 
 ! Missing $ inserted.
 <inserted text> 
@@ -744,28 +738,6 @@ l.290
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.290 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.290 
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 
 ! LaTeX Error: Bad math environment delimiter.
 
@@ -779,7 +751,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-! You can't use `\eqno' in vertical mode.
+! You can't use `\eqno' in internal vertical mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
 l.291 \end{equation}
@@ -821,13 +793,13 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Bilder/figure_model_haiti.png, id=255, 358.31467pt x 235.74474pt>
+<Bilder/figure_model_haiti.png, id=70, 358.31467pt x 235.74474pt>
 File: Bilder/figure_model_haiti.png Graphic file (type png)
 
 <use Bilder/figure_model_haiti.png>
 Package pdftex.def Info: Bilder/figure_model_haiti.png used on input line 300.
 (pdftex.def)             Requested size: 322.48021pt x 212.16829pt.
-
+ [15 <./Bilder/figure_model_haiti.png>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -841,7 +813,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[14]
+[16]
 ! Too many }'s.
 <recently read> }
                  
@@ -872,7 +844,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 Missing character: There is no Ë in font cmex10!
-[15 <./Bilder/figure_model_haiti.png>]
+[17]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1114,7 +1086,6 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 Missing character: There is no Ë in font cmex10!
-[16]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1128,25 +1099,25 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[17] <Bilder/Matlab_program.png, id=308, 620.5584pt x 491.9178pt>
+[18] [19] <Bilder/Matlab_program.png, id=91, 620.5584pt x 491.9178pt>
 File: Bilder/Matlab_program.png Graphic file (type png)
 
 <use Bilder/Matlab_program.png>
 Package pdftex.def Info: Bilder/Matlab_program.png used on input line 440.
 (pdftex.def)             Requested size: 372.3379pt x 295.15295pt.
- [18] [19 <./Bilder/Matlab_program.png (PNG copy)>]
+ [20] [21 <./Bilder/Matlab_program.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 452--453
 
  []
 
-<Bilder/susceptible_mean.png, id=325, 449.68pt x 337.26pt>
+<Bilder/susceptible_mean.png, id=98, 449.68pt x 337.26pt>
 File: Bilder/susceptible_mean.png Graphic file (type png)
 
 <use Bilder/susceptible_mean.png>
 Package pdftex.def Info: Bilder/susceptible_mean.png used on input line 458.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/removed_mean.png, id=326, 449.68pt x 337.26pt>
+<Bilder/removed_mean.png, id=99, 449.68pt x 337.26pt>
 File: Bilder/removed_mean.png Graphic file (type png)
 
 <use Bilder/removed_mean.png>
@@ -1157,14 +1128,14 @@ Overfull \hbox (4.87321pt too wide) in paragraph at lines 456--469
 [][]   [] 
  []
 
-<Bilder/infectious_mean.png, id=331, 449.68pt x 337.26pt>
+<Bilder/infectious_mean.png, id=100, 449.68pt x 337.26pt>
 File: Bilder/infectious_mean.png Graphic file (type png)
 
 <use Bilder/infectious_mean.png>
 Package pdftex.def Info: Bilder/infectious_mean.png used on input line 479.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/susceptible.png, id=332, 449.68pt x 337.26pt>
+<Bilder/susceptible.png, id=101, 449.68pt x 337.26pt>
 File: Bilder/susceptible.png Graphic file (type png)
 
 <use Bilder/susceptible.png>
@@ -1175,13 +1146,13 @@ Overfull \hbox (4.87321pt too wide) in paragraph at lines 477--490
 [][]   [] 
  []
 
-<Bilder/removed.png, id=333, 449.68pt x 337.26pt>
+<Bilder/removed.png, id=102, 449.68pt x 337.26pt>
 File: Bilder/removed.png Graphic file (type png)
  <use Bilder/removed.png>
 Package pdftex.def Info: Bilder/removed.png used on input line 496.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/infectious.png, id=334, 449.68pt x 337.26pt>
+<Bilder/infectious.png, id=103, 449.68pt x 337.26pt>
 File: Bilder/infectious.png Graphic file (type png)
 
 <use Bilder/infectious.png>
@@ -1195,7 +1166,7 @@ Overfull \hbox (4.87321pt too wide) in paragraph at lines 494--507
 ! Missing } inserted.
 <inserted text> 
                 }
-l.509 ... $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$
+l.509 ... $\sum\limits_{j=0}^I  \Theta_{ij}  x_{j$
                                                    the transmission between ...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1203,10 +1174,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[20 <./Bilder/susceptible_mean.png (PNG copy)> <./Bilder/removed_mean.png (PNG 
-copy)>] [21 <./Bilder/infectious_mean.png (PNG copy)> <./Bilder/susceptible.png
+[22 <./Bilder/susceptible_mean.png (PNG copy)> <./Bilder/removed_mean.png (PNG 
+copy)>] [23 <./Bilder/infectious_mean.png (PNG copy)> <./Bilder/susceptible.png
  (PNG copy)> <./Bilder/removed.png (PNG copy)> <./Bilder/infectious.png (PNG co
-py)>] <Bilder/geo_removed.png, id=350, 621.82312pt x 199.49532pt>
+py)>] <Bilder/geo_removed.png, id=110, 621.82312pt x 199.49532pt>
 File: Bilder/geo_removed.png Graphic file (type png)
 
 <use Bilder/geo_removed.png>
@@ -1215,174 +1186,37 @@ Package pdftex.def Info: Bilder/geo_removed.png used on input line 516.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
- [22 <./Bilder/geo_removed.png>] [23] [24]
-(./Cholera_haiti.lof
-Overfull \hbox (0.57848pt too wide) in paragraph at lines 11--11
- [][] [][]\OT1/cmr/m/n/12 Geographical dis-play of ob-served and cal-cu-lated r
-e-moved data at t=92. 
- []
-
-)
-\tf@lof=\write5
-\openout5 = `Cholera_haiti.lof'.
+ [24 <./Bilder/geo_removed.png>] [25] [26]
+(./Cholera_haiti.lof)
+\tf@lof=\write4
+\openout4 = `Cholera_haiti.lof'.
 
  (./Cholera_haiti.lot)
-\tf@lot=\write6
-\openout6 = `Cholera_haiti.lot'.
+\tf@lot=\write5
+\openout5 = `Cholera_haiti.lot'.
 
- [25] (./Cholera_haiti.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
-[]\OT1/cmr/m/n/12 Ministere de la sante publique et de la pop-u-la-tion (mspp).
+ [27] (./Cholera_haiti.bbl)
 
- []
+Package natbib Warning: There were multiply defined citations.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.10 ....newyorkdailytimes.com/news/story/y/75005_
-                                                  as-haiti-
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+[28] (./Cholera_haiti.aux
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.12 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.12 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--12
-[]\OT1/cmr/m/n/12 As haiti mourns, quake sur-vivor found in rub-ble.
- []
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.12 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
-\OT1/cmr/m/n/12 /10/2010102912124470696.htm-lamer-i-cas/2010/10/201010291212447
-0696.html,
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 19--22
-[]\OT1/cmr/m/n/12 Un in-ves-ti-gates haiti out-break.  http://www.aljazeera.com
-/news/africa/2010
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
-[]\OT1/cmr/m/n/12 Haiti raises quake death toll on an-niver-sary.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
-\OT1/cmr/m/n/12 http://www.cbc.ca/news/world/story/2011/01/12/haiti-anniversary
--
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.31 \newblock http://en.wikipedia.org/wiki/2010_
-                                                 Haiti_earthquake, 2012.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.32 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.32 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.32 
-     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--55
-[]\OT1/cmr/m/n/12 James Daniell.  Dam-ag-ing earth-quakes 2010.  http://earthqu
-ake-
- []
-
-
-Underfull \hbox (badness 2302) in paragraph at lines 64--69
-[]\OT1/cmr/m/n/12 Carlos Laur^^S^^Pa.  Haitian jour-nal-ist de-scribes scenes o
-f death and de-struc-
- []
-
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 76--81
-[]\OT1/cmr/m/n/12 Valery E.M. Beau De Rochars.  Knowl-edge, at-ti-tudes, and pr
-ac-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--81
-\OT1/cmr/m/n/12 tices re-lated to treat-ment and pre-ven-tion of cholera, haiti
-, 2010.
- []
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 565.
- [27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 565.
- (./Cholera_haiti.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 565.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 565.
-Package rerunfilecheck Info: File `Cholera_haiti.out' has not changed.
-(rerunfilecheck)             Checksum: 57ECAEC91FC492C19130D8D6A5F7638F;1395.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 565.
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 8749 strings out of 493633
- 128375 string characters out of 3143378
- 236517 words of memory out of 3000000
- 11777 multiletter control sequences out of 15000+200000
+ 5310 strings out of 493633
+ 76116 string characters out of 3143378
+ 161360 words of memory out of 3000000
+ 8489 multiletter control sequences out of 15000+200000
  14359 words of font info for 55 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,18n,46p,2018b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,18n,46p,2016b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -1398,10 +1232,10 @@ ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Cholera_haiti.pdf (27 pages, 2719193 bytes).
+Output written on Cholera_haiti.pdf (28 pages, 2708967 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 429 compressed objects within 5 object streams
- 116 named destinations out of 1000 (max. 500000)
- 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
