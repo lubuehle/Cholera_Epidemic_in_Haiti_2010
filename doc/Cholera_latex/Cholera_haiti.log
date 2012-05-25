@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.10.30)  25 MAY 2012 08:08
+=======
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  23 MAY 2012 22:09
+>>>>>>> update
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,6 +526,7 @@ File: Bilder/flow_diagram_SIWR.png Graphic file (type png)
 
 <use Bilder/flow_diagram_SIWR.png>
 Package pdftex.def Info: Bilder/flow_diagram_SIWR.png used on input line 229.
+<<<<<<< HEAD
 (pdftex.def)             Requested size: 430.00462pt x 252.79471pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 235--237
@@ -698,6 +703,19 @@ Such booboos are generally harmless, so keep going.
 
 
 LaTeX Warning: Command \. invalid in math mode on input line 333.
+=======
+(pdftex.def)             Requested size: 269.08464pt x 158.51181pt.
+ [9 <./Bilder/flow_diagram_SIWR.png (PNG copy)>] [10] <Bilder/figure_model_hait
+i.png, id=54, 358.31467pt x 235.74474pt>
+File: Bilder/figure_model_haiti.png Graphic file (type png)
+
+<use Bilder/figure_model_haiti.png>
+Package pdftex.def Info: Bilder/figure_model_haiti.png used on input line 279.
+(pdftex.def)             Requested size: 358.31378pt x 235.74416pt.
+ [11 <./Bilder/figure_model_haiti.png>]
+
+LaTeX Warning: Command \. invalid in math mode on input line 308.
+>>>>>>> update
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
@@ -718,6 +736,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 Missing character: There is no è in font cmex10!
+<<<<<<< HEAD
 [16]
 
 ! LaTeX Error: There's no line here to end.
@@ -732,6 +751,13 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+=======
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+[12]
+>>>>>>> update
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
@@ -984,6 +1010,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 452--453
 
  []
 
+<<<<<<< HEAD
 <Bilder/susceptible_mean.png, id=95, 449.68pt x 337.26pt>
 File: Bilder/susceptible_mean.png Graphic file (type png)
 
@@ -1099,6 +1126,39 @@ Output written on Cholera_haiti.pdf (27 pages, 2726321 bytes).
 PDF statistics:
  174 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
+=======
+[15] (./Cholera_haiti.bbl) [16] (./Cholera_haiti.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4097 strings out of 493633
+ 58361 string characters out of 3143378
+ 132836 words of memory out of 3000000
+ 7317 multiletter control sequences out of 15000+200000
+ 14013 words of font info for 54 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 42i,12n,24p,1958b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Cholera_haiti.pdf (16 pages, 2675204 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+>>>>>>> update
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
