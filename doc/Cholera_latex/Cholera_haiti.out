@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Individual contributions}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction and Motivation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Introduction to Haiti, the earthquake and cholera }{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Motivation}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Description of the Model}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{SIR model by Kermack and McKendrick}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{SIWR model by Tien and Earn}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Spatially divided SIWR model}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Implementation}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Problems with rescaling}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Data from the MSPP}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Differential equations}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.4}{Creation of the solver}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.5}{Initial conditions}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Simulation results and discussion}{}% 15
+\BOOKMARK [2][-]{subsection.5.1}{Results of the SIR model}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.2}{Discussion}{section.5}% 17
+\BOOKMARK [1][-]{section.6}{Summary and Outlook}{}% 18
+\BOOKMARK [2][-]{subsection.6.1}{Summary}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.2}{Outlook}{section.6}% 20
+\BOOKMARK [1][-]{section.7}{References}{}% 21
