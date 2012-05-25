@@ -1,18 +1,21 @@
-\contentsline {section}{\numberline {1}Abstract}{4}
-\contentsline {section}{\numberline {2}Individual Contributions}{4}
-\contentsline {section}{\numberline {3}Introduction and Motivation}{4}
-\contentsline {subsection}{\numberline {3.1}Introduction to Haiti, the earthquake and cholera }{4}
-\contentsline {subsection}{\numberline {3.2}Motivation}{6}
-\contentsline {section}{\numberline {4}Description of the Model}{6}
-\contentsline {section}{\numberline {5}Implementation}{11}
-\contentsline {subsection}{\numberline {5.1}Problems with rescaling}{11}
-\contentsline {subsection}{\numberline {5.2}Data from the MSPP}{11}
-\contentsline {subsection}{\numberline {5.3}Differential equations}{12}
-\contentsline {subsection}{\numberline {5.4}Creation of the solver}{13}
-\contentsline {subsection}{\numberline {5.5}Initial conditions}{14}
-\contentsline {section}{\numberline {6}Simulation results and discussion}{14}
-\contentsline {subsection}{\numberline {6.1}Results of the SIR model}{14}
-\contentsline {subsection}{\numberline {6.2}Discussion}{16}
-\contentsline {section}{\numberline {7}Summary and Outlook}{16}
-\contentsline {subsection}{\numberline {7.1}Outlook}{16}
-\contentsline {section}{\numberline {8}References}{17}
+\contentsline {section}{\numberline {1}Individual contributions}{6}
+\contentsline {section}{\numberline {2}Introduction and Motivation}{7}
+\contentsline {subsection}{\numberline {2.1}Introduction to Haiti, the earthquake and cholera }{7}
+\contentsline {subsection}{\numberline {2.2}Motivation}{8}
+\contentsline {section}{\numberline {3}Description of the Model}{10}
+\contentsline {subsection}{\numberline {3.1}SIR model by Kermack and McKendrick}{10}
+\contentsline {subsection}{\numberline {3.2}SIWR model by Tien and Earn}{11}
+\contentsline {subsection}{\numberline {3.3}Spatially divided SIWR model}{13}
+\contentsline {section}{\numberline {4}Implementation}{16}
+\contentsline {subsection}{\numberline {4.1}Problems with rescaling}{16}
+\contentsline {subsection}{\numberline {4.2}Data from the MSPP}{16}
+\contentsline {subsection}{\numberline {4.3}Differential equations}{17}
+\contentsline {subsection}{\numberline {4.4}Creation of the solver}{17}
+\contentsline {subsection}{\numberline {4.5}Initial conditions}{19}
+\contentsline {section}{\numberline {5}Simulation results and discussion}{21}
+\contentsline {subsection}{\numberline {5.1}Results of the SIR model}{21}
+\contentsline {subsection}{\numberline {5.2}Discussion}{23}
+\contentsline {section}{\numberline {6}Summary and Outlook}{25}
+\contentsline {subsection}{\numberline {6.1}Summary}{25}
+\contentsline {subsection}{\numberline {6.2}Outlook}{25}
+\contentsline {section}{\numberline {7}References}{27}
