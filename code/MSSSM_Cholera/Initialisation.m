@@ -1,6 +1,6 @@
 %HAITI CHOLERA EPIDEMIC 2010
 %
-%This model is built up with four main files. 
+%This model is built up by four main files. 
 %The initialisation file starts the model, loads the data and plots the
 %final results.
 %
@@ -342,3 +342,7 @@ xlabel('Time')
 ylabel('Percentage of population')
 legend('Artibonite', 'Centre', 'Grand Anse', 'Nippes','Nord', 'Nord Ouest','Nord Est','Ouest','Sud','Sud Est','Location','NorthWest')
 title('Observations of removed by department')
+
+
+
+video(x,s,r);

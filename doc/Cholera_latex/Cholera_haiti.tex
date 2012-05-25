@@ -507,7 +507,17 @@ The plots \ref{fig:all_susceptible}, \ref{fig:all_removed} and \ref{fig:all_infe
   \end{minipage}
 \end{figure}
 
-One of the benefits of our simple model is the possibility to compare the effect of transmission within the same district versus transmission between districts. The force of infection $\lambda$ consists of two parts, as seen in equation \ref{eq:lambda}. Here $\beta_{I}x_{i}$ represents the transmission within the same district and $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$ the transmission between compartments. Figure XX shows the interdepartmental transmission coefficients over time. The best fit of $\beta_{I}=3.9114$ is always around $10^4$ times bigger. This predicts that in our model the transmission within the same district is much more important than the interdepartmental transmission.
+\begin{figure}
+  %\centering
+  \begin{minipage}[t]{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Bilder/coeff.png} 
+    \caption{$\Theta_{i}$ of each department over time}
+	\label{fig:coeff}
+  \end{minipage}
+\end{figure}
+
+One of the benefits of our simple model is the possibility to compare the effect of transmission within the same district versus transmission between districts. The force of infection $\lambda$ consists of two parts, as seen in equation \ref{eq:lambda}. Here $\beta_{I}x_{i}$ represents the transmission within the same district and $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$ the transmission between compartments. Figure \ref{fig:coeff} shows the interdepartmental transmission coefficients over time. The best fit of $\beta_{I}=3.9114$ is always around $10^4$ times bigger. This predicts that in our model the transmission within the same district is much more important than the interdepartmental transmission.
 
 
 \begin{figure}
@@ -520,7 +530,7 @@ One of the benefits of our simple model is the possibility to compare the effect
   \end{minipage}
 \end{figure}
 
-Figure \ref{fig:geo_removed} shows the spread of the removed compartment on the 1st of January 2011. Our model predicts the spatial spread of the disease to some extent. After the change of initial conditions in the infectious compartment for the district Grand Anse we were able to also predict the spread in the far west. Our calculated least-infected districts are Sud and Nippes. The observed data show that they are further to the east, namely Ouest and Sud-Est. Our model also calculates the highest-infected district to be Artibonite, whereas the observed data shows that they are Nord-Est and Nord.
+Figure \ref{fig:geo_removed} shows the spread of the removed compartment on the 31st of January 2011. Our model predicts the spatial spread of the disease to some extent. After the change of initial conditions in the infectious compartment for the district Grand Anse we were able to also predict the spread in the far west. Our calculated least-infected districts are Sud and Nippes. The observed data show that they are further to the east, namely Ouest and Sud-Est. Our model also calculates the highest-infected district to be Artibonite, whereas the observed data shows that they are Nord-Est and Nord.
 
 
 
