@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.2)  25 MAY 2012 17:50
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.10.30)  25 MAY 2012 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -13,12 +13,11 @@ h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
  icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
 iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
  lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
-ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
-ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
-.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
+ish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spani
+sh, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size11.clo
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -33,22 +32,22 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -64,27 +63,27 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/18 v0.06c Graphics/color for pdfTeX
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count90
@@ -92,10 +91,10 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
@@ -103,28 +102,28 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -133,7 +132,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -145,35 +144,35 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count91
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen113
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen114
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count92
@@ -214,7 +213,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen122
 \WF@size=\dimen123
 \c@WF@wrappedlines=\count104
@@ -222,16 +221,16 @@ LaTeX Info: Redefining \] on input line 2667.
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/mh/empheq.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/mh/empheq.sty
 Package: empheq 2007/12/03 v2.12 Emphasizing equations (MH)
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/mh/mhsetup.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/mh/mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/mh/mathtools.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/mh/mathtools.sty
 Package: mathtools 2011/02/12 v1.10 mathematical typesetting tools
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/calc.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count105
 \calc@Bcount=\count106
@@ -266,22 +265,22 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \EQ_tag_box=\box30
 \g_EQ_temprow_int=\count112
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2011/03/10 v0.4n Insert pages of external PDF documents (AM)
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
 
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -295,7 +294,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/pdfpages/pppdftex.def
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2011/03/10 v0.4n Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box31
@@ -353,7 +352,7 @@ LaTeX Font Info:    ... okay on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen138
@@ -364,17 +363,16 @@ LaTeX Font Info:    ... okay on input line 16.
 \MPscratchCnt=\count117
 \MPscratchDim=\dimen139
 \MPnumerator=\count118
-\makeMPintoPDFobject=\count119
 \everyMPtoPDFconversion=\toks25
 )
-\Hy@linkcounter=\count120
+\Hy@linkcounter=\count119
 \AtBeginShipoutBox=\box34
  (./cover.tex
 Package epstopdf Info: Source file: <Bilder/ETHlogo.eps>
-(epstopdf)                    date: 2012-05-25 13:10:05
+(epstopdf)                    date: 2012-05-24 09:36:19
 (epstopdf)                    size: 171343 bytes
 (epstopdf)             Output file: <Bilder/ETHlogo-eps-converted-to.pdf>
-(epstopdf)                    date: 2012-05-25 13:10:05
+(epstopdf)                    date: 2012-05-24 10:25:29
 (epstopdf)                    size: 14336 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bilder/ETHlogo-eps-convert
 ed-to.pdf Bilder/ETHlogo.eps>
@@ -390,16 +388,16 @@ Package pdftex.def Info: Bilder/ETHlogo-eps-converted-to.pdf used on input line
 (pdftex.def)             Requested size: 142.26378pt x 35.76698pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 34.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )) [1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Bilde
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Bilde
 r/ETHlogo-eps-converted-to.pdf>]
 Overfull \hbox (5.3226pt too wide) in paragraph at lines 42--61
  [] 
@@ -441,28 +439,29 @@ File: Bilder/declaration_of_originality.png Graphic file (type png)
 Package pdftex.def Info: Bilder/declaration_of_originality.png used on input li
 ne 96.
 (pdftex.def)             Requested size: 483.3129pt x 795.57677pt.
- [3 <./Bilder/declaration_of_originality.png>] [4] (./Cholera_haiti.toc)
+ [3 <./Bilder/declaration_of_originality.png (PNG copy)>] [4] (./Cholera_haiti.
+toc)
 \tf@toc=\write3
 \openout3 = `Cholera_haiti.toc'.
 
  [5]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 128.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 129.
 
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 128.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 129.
  [6]
-<Bilder/KarteHaiti.png, id=34, 226.9278pt x 243.7908pt>
+<Bilder/KarteHaiti.png, id=33, 226.9278pt x 243.7908pt>
 File: Bilder/KarteHaiti.png Graphic file (type png)
 
 <use Bilder/KarteHaiti.png>
-Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 147.
+Package pdftex.def Info: Bilder/KarteHaiti.png used on input line 148.
 (pdftex.def)             Requested size: 206.40038pt x 221.7421pt.
 
-Underfull \hbox (badness 1038) in paragraph at lines 156--157
+Underfull \hbox (badness 1038) in paragraph at lines 157--158
 \OT1/cmr/m/n/12 fault sys-tem here with the south-ern
  []
 
@@ -493,14 +492,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200 \newline
+l.201 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
@@ -512,7 +511,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.220 \newline
+l.221 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -522,15 +521,15 @@ or  <return>  to continue without it.
 File: Bilder/flow_diagram_SIWR.png Graphic file (type png)
 
 <use Bilder/flow_diagram_SIWR.png>
-Package pdftex.def Info: Bilder/flow_diagram_SIWR.png used on input line 229.
+Package pdftex.def Info: Bilder/flow_diagram_SIWR.png used on input line 230.
 (pdftex.def)             Requested size: 344.005pt x 202.23285pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--237
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--237
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
 
  []
 
@@ -542,7 +541,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.241 \newline
+l.242 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -555,13 +554,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.253 \newline
+l.254 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[12 <./Bilder/flow_diagram_SIWR.png>] [13]
+[12 <./Bilder/flow_diagram_SIWR.png (PNG copy)>] [13]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -569,92 +568,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.278 \newline
+l.280 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (6.45566pt too wide) in paragraph at lines 282--283
+Overfull \hbox (6.45566pt too wide) in paragraph at lines 284--285
 \OT1/cmr/m/n/12 person-to-person trans-mis-sion be-tween dis-tricts. While this
  may give a bet-ter overview
  []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.288 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Display math should end with $$.
-<to be read again> 
-                   \par 
-l.288 
-      
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.289 \lambda
-             _{i}=\beta_{W}w_{i}+\beta_{I}x_{i}+\sum\limits_{j=1}^I  \Theta_...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.290 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.291 \end{equation}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! You can't use `\eqno' in internal vertical mode.
-\endmathdisplay@a ...\df@tag \@empty \else \veqno 
-                                                  \alt@tag \df@tag \fi \ifx ...
-l.291 \end{equation}
-                    
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.291 \end{equation}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Display math should end with $$.
-<to be read again> 
-                   \endgroup 
-l.291 \end{equation}
-                    
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
 
 ! LaTeX Error: There's no line here to end.
 
@@ -662,7 +587,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.294 \newline
+l.293 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -672,24 +597,25 @@ or  <return>  to continue without it.
 File: Bilder/figure_model_haiti.png Graphic file (type png)
 
 <use Bilder/figure_model_haiti.png>
-Package pdftex.def Info: Bilder/figure_model_haiti.png used on input line 300.
+Package pdftex.def Info: Bilder/figure_model_haiti.png used on input line 299.
 (pdftex.def)             Requested size: 322.48021pt x 212.16829pt.
- [14]
+ [14 <./Bilder/figure_model_haiti.png>]
+[15]
 ! Too many }'s.
 <recently read> }
                  
-l.332 ... of equation \eqref{eq:SIWR_susceptible}}
+l.331 ... of equation \eqref{eq:SIWR_susceptible}}
                                                    there already seems to be...
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 
-LaTeX Warning: Command \. invalid in math mode on input line 332.
+LaTeX Warning: Command \. invalid in math mode on input line 331.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.332 ...me contradiction. The dimension of $\.{s}
+l.331 ...me contradiction. The dimension of $\.{s}
                                                   $,s,i and r is $km^{-2}$. ...
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -697,250 +623,8 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.332 ...me contradiction. The dimension of $\.{s}
+l.331 ...me contradiction. The dimension of $\.{s}
                                                   $,s,i and r is $km^{-2}$. ...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-[15 <./Bilder/figure_model_haiti.png>]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.356 \newline
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Missing character: There is no è in font cmex10!
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.370 \end{empheq}
-                  
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.370 \end{empheq}
-                  
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
@@ -955,86 +639,338 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.373 \newline
+l.353 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[17] <Bilder/Matlab_program.png, id=84, 620.5584pt x 491.9178pt>
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.367 \end{empheq}
+                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.367 \end{empheq}
+                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[17] [18] <Bilder/Matlab_program.png, id=87, 620.5584pt x 491.9178pt>
 File: Bilder/Matlab_program.png Graphic file (type png)
 
 <use Bilder/Matlab_program.png>
-Package pdftex.def Info: Bilder/Matlab_program.png used on input line 439.
+Package pdftex.def Info: Bilder/Matlab_program.png used on input line 436.
 (pdftex.def)             Requested size: 372.3379pt x 295.15295pt.
- [18] [19 <./Bilder/Matlab_program.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 451--452
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+<Bilder/colorbar.png, id=88, 387.69844pt x 88.83188pt>
+File: Bilder/colorbar.png Graphic file (type png)
+
+<use Bilder/colorbar.png>
+Package pdftex.def Info: Bilder/colorbar.png used on input line 451.
+(pdftex.def)             Requested size: 430.00462pt x 98.52727pt.
+ [19] [20 <./Bilder/Matlab_program.png (PNG copy)> <./Bilder/colorbar.png (PNG 
+copy)>] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
 
  []
 
-<Bilder/susceptible_mean.png, id=92, 449.68pt x 337.26pt>
+<Bilder/susceptible_mean.png, id=100, 449.68pt x 337.26pt>
 File: Bilder/susceptible_mean.png Graphic file (type png)
 
 <use Bilder/susceptible_mean.png>
-Package pdftex.def Info: Bilder/susceptible_mean.png used on input line 457.
+Package pdftex.def Info: Bilder/susceptible_mean.png used on input line 481.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/removed_mean.png, id=93, 449.68pt x 337.26pt>
+<Bilder/removed_mean.png, id=101, 449.68pt x 337.26pt>
 File: Bilder/removed_mean.png Graphic file (type png)
 
 <use Bilder/removed_mean.png>
-Package pdftex.def Info: Bilder/removed_mean.png used on input line 464.
+Package pdftex.def Info: Bilder/removed_mean.png used on input line 488.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-Overfull \hbox (4.87321pt too wide) in paragraph at lines 455--468
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 479--492
 [][]   [] 
  []
 
-<Bilder/infectious_mean.png, id=94, 449.68pt x 337.26pt>
+<Bilder/infectious_mean.png, id=102, 449.68pt x 337.26pt>
 File: Bilder/infectious_mean.png Graphic file (type png)
 
 <use Bilder/infectious_mean.png>
-Package pdftex.def Info: Bilder/infectious_mean.png used on input line 478.
+Package pdftex.def Info: Bilder/infectious_mean.png used on input line 502.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/susceptible.png, id=95, 449.68pt x 337.26pt>
+<Bilder/susceptible.png, id=103, 449.68pt x 337.26pt>
 File: Bilder/susceptible.png Graphic file (type png)
 
 <use Bilder/susceptible.png>
-Package pdftex.def Info: Bilder/susceptible.png used on input line 485.
+Package pdftex.def Info: Bilder/susceptible.png used on input line 509.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-Overfull \hbox (4.87321pt too wide) in paragraph at lines 476--489
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 500--513
 [][]   [] 
  []
 
-<Bilder/removed.png, id=96, 449.68pt x 337.26pt>
+<Bilder/removed.png, id=104, 449.68pt x 337.26pt>
 File: Bilder/removed.png Graphic file (type png)
  <use Bilder/removed.png>
-Package pdftex.def Info: Bilder/removed.png used on input line 495.
+Package pdftex.def Info: Bilder/removed.png used on input line 519.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-<Bilder/infectious.png, id=97, 449.68pt x 337.26pt>
+<Bilder/infectious.png, id=105, 449.68pt x 337.26pt>
 File: Bilder/infectious.png Graphic file (type png)
 
 <use Bilder/infectious.png>
-Package pdftex.def Info: Bilder/infectious.png used on input line 502.
+Package pdftex.def Info: Bilder/infectious.png used on input line 526.
 (pdftex.def)             Requested size: 210.70462pt x 158.02847pt.
 
-Overfull \hbox (4.87321pt too wide) in paragraph at lines 493--506
+Overfull \hbox (4.87321pt too wide) in paragraph at lines 517--530
 [][]   [] 
  []
 
-<Bilder/coeff.png, id=98, 449.68pt x 337.26pt>
+<Bilder/coeff.png, id=106, 449.68pt x 337.26pt>
 File: Bilder/coeff.png Graphic file (type png)
  <use Bilder/coeff.png>
-Package pdftex.def Info: Bilder/coeff.png used on input line 512.
-(pdftex.def)             Requested size: 430.00462pt x 322.5154pt.
+Package pdftex.def Info: Bilder/coeff.png used on input line 536.
+(pdftex.def)             Requested size: 344.005pt x 258.01335pt.
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.518 ... $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$
+l.542 ... $\sum\limits_{j=1}^I  \Theta_{ij}  x_{j$
                                                    the transmission between ...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1042,22 +978,22 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[20 <./Bilder/susceptible_mean.png (PNG copy)> <./Bilder/removed_mean.png (PNG 
-copy)>] [21 <./Bilder/infectious_mean.png (PNG copy)> <./Bilder/susceptible.png
+[22 <./Bilder/susceptible_mean.png (PNG copy)> <./Bilder/removed_mean.png (PNG 
+copy)>] [23 <./Bilder/infectious_mean.png (PNG copy)> <./Bilder/susceptible.png
  (PNG copy)> <./Bilder/removed.png (PNG copy)> <./Bilder/infectious.png (PNG co
-py)>] [22 <./Bilder/coeff.png (PNG copy)>]
-<Bilder/geo_removed.png, id=108, 621.82312pt x 199.49532pt>
+py)>] [24 <./Bilder/coeff.png (PNG copy)>]
+<Bilder/geo_removed.png, id=116, 621.82312pt x 199.49532pt>
 File: Bilder/geo_removed.png Graphic file (type png)
 
 <use Bilder/geo_removed.png>
-Package pdftex.def Info: Bilder/geo_removed.png used on input line 525.
+Package pdftex.def Info: Bilder/geo_removed.png used on input line 549.
 (pdftex.def)             Requested size: 430.00462pt x 137.9563pt.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [23 <./Bilder/geo_removed.png>] [24] [25]
+ [25 <./Bilder/geo_removed.png>] [26] [27]
 (./Cholera_haiti.lof
-Overfull \hbox (0.57848pt too wide) in paragraph at lines 12--12
+Overfull \hbox (0.57848pt too wide) in paragraph at lines 13--13
  [][] []\OT1/cmr/m/n/12 Geographical dis-play of ob-served and cal-cu-lated re-
 moved data at t=92. 
  []
@@ -1070,7 +1006,7 @@ moved data at t=92.
 \tf@lot=\write5
 \openout5 = `Cholera_haiti.lot'.
 
- [26] (./Cholera_haiti.bbl
+ [28] (./Cholera_haiti.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--7
 []\OT1/cmr/m/n/12 Ministere de la sante publique et de la pop-u-la-tion (mspp).
 
@@ -1192,7 +1128,7 @@ Underfull \hbox (badness 2302) in paragraph at lines 64--69
 f death and de-struc-
  []
 
-[27]
+[29]
 Underfull \hbox (badness 10000) in paragraph at lines 76--81
 []\OT1/cmr/m/n/12 Valery E.M. Beau De Rochars.  Knowl-edge, at-ti-tudes, and pr
 ac-
@@ -1204,39 +1140,342 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--81
 , 2010.
  []
 
-) [28] (./Cholera_haiti.aux
+) [30] <Bilder/Initialisation.pdf, id=139, page=1, 597.23125pt x 845.1575pt>
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
 
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
+<use Bilder/Initialisation.pdf, page 1>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page1 used on input line 59
+5.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
 
-) ) 
+<use Bilder/Initialisation.pdf, page 1>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page1 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 1>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page1 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 1>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page1 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 1>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page1 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [31 <./Bilder/Initialisation.pdf>]
+<Bilder/Initialisation.pdf, id=159, page=2, 597.23125pt x 845.1575pt>
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 2>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page2 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 2>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page2 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 2>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page2 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [32 <./Bilder/Initialisation.pdf>]
+<Bilder/Initialisation.pdf, id=163, page=3, 597.23125pt x 845.1575pt>
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 3>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page3 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 3>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page3 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 3>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page3 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [33 <./Bilder/Initialisation.pdf>]
+<Bilder/Initialisation.pdf, id=167, page=4, 597.23125pt x 845.1575pt>
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 4>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page4 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 4>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page4 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 4>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page4 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [34 <./Bilder/Initialisation.pdf>]
+<Bilder/Initialisation.pdf, id=171, page=5, 597.23125pt x 845.1575pt>
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 5>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page5 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 5>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page5 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 5>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page5 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [35 <./Bilder/Initialisation.pdf>]
+<Bilder/Initialisation.pdf, id=175, page=6, 597.23125pt x 845.1575pt>
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 6>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page6 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 6>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page6 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 6>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page6 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [36 <./Bilder/Initialisation.pdf>]
+<Bilder/Initialisation.pdf, id=179, page=7, 597.23125pt x 845.1575pt>
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 7>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page7 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 7>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page7 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/Initialisation.pdf Graphic file (type pdf)
+
+<use Bilder/Initialisation.pdf, page 7>
+Package pdftex.def Info: Bilder/Initialisation.pdf, page7 used on input line 59
+5.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [37 <./Bilder/Initialisation.pdf>]
+<Bilder/haiti_calc.pdf, id=192, page=1, 597.23125pt x 845.1575pt>
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 1>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page1 used on input line 597.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+ <use Bilder/haiti_calc.pdf, page 1>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page1 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 1>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page1 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+ <use Bilder/haiti_calc.pdf, page 1>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page1 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 1>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page1 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [38 <./Bilder/haiti_calc.pdf>]
+<Bilder/haiti_calc.pdf, id=212, page=2, 597.23125pt x 845.1575pt>
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 2>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page2 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+ <use Bilder/haiti_calc.pdf, page 2>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page2 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 2>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page2 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [39 <./Bilder/haiti_calc.pdf>]
+<Bilder/haiti_calc.pdf, id=216, page=3, 597.23125pt x 845.1575pt>
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 3>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page3 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+ <use Bilder/haiti_calc.pdf, page 3>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page3 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 3>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page3 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [40 <./Bilder/haiti_calc.pdf>]
+<Bilder/haiti_calc.pdf, id=220, page=4, 597.23125pt x 845.1575pt>
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 4>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page4 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+ <use Bilder/haiti_calc.pdf, page 4>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page4 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 4>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page4 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [41 <./Bilder/haiti_calc.pdf>]
+<Bilder/haiti_calc.pdf, id=224, page=5, 597.23125pt x 845.1575pt>
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 5>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page5 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+ <use Bilder/haiti_calc.pdf, page 5>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page5 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 5>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page5 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [42 <./Bilder/haiti_calc.pdf>]
+<Bilder/haiti_calc.pdf, id=228, page=6, 597.23125pt x 845.1575pt>
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 6>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page6 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+ <use Bilder/haiti_calc.pdf, page 6>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page6 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/haiti_calc.pdf Graphic file (type pdf)
+
+<use Bilder/haiti_calc.pdf, page 6>
+Package pdftex.def Info: Bilder/haiti_calc.pdf, page6 used on input line 597.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [43 <./Bilder/haiti_calc.pdf>]
+<Bilder/euler.pdf, id=241, page=1, 597.23125pt x 845.1575pt>
+File: Bilder/euler.pdf Graphic file (type pdf)
+
+<use Bilder/euler.pdf, page 1>
+Package pdftex.def Info: Bilder/euler.pdf, page1 used on input line 599.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: Bilder/euler.pdf Graphic file (type pdf)
+ <use Bilder/euler.pdf, page 1>
+Package pdftex.def Info: Bilder/euler.pdf, page1 used on input line 599.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/euler.pdf Graphic file (type pdf)
+
+<use Bilder/euler.pdf, page 1>
+Package pdftex.def Info: Bilder/euler.pdf, page1 used on input line 599.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/euler.pdf Graphic file (type pdf)
+ <use Bilder/euler.pdf, page 1>
+Package pdftex.def Info: Bilder/euler.pdf, page1 used on input line 599.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/euler.pdf Graphic file (type pdf)
+
+<use Bilder/euler.pdf, page 1>
+Package pdftex.def Info: Bilder/euler.pdf, page1 used on input line 599.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [44 <./Bilder/euler.pdf>]
+<Bilder/eulersolve.pdf, id=268, page=1, 597.23125pt x 845.1575pt>
+File: Bilder/eulersolve.pdf Graphic file (type pdf)
+
+<use Bilder/eulersolve.pdf, page 1>
+Package pdftex.def Info: Bilder/eulersolve.pdf, page1 used on input line 601.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: Bilder/eulersolve.pdf Graphic file (type pdf)
+ <use Bilder/eulersolve.pdf, page 1>
+Package pdftex.def Info: Bilder/eulersolve.pdf, page1 used on input line 601.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/eulersolve.pdf Graphic file (type pdf)
+
+<use Bilder/eulersolve.pdf, page 1>
+Package pdftex.def Info: Bilder/eulersolve.pdf, page1 used on input line 601.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/eulersolve.pdf Graphic file (type pdf)
+ <use Bilder/eulersolve.pdf, page 1>
+Package pdftex.def Info: Bilder/eulersolve.pdf, page1 used on input line 601.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: Bilder/eulersolve.pdf Graphic file (type pdf)
+
+<use Bilder/eulersolve.pdf, page 1>
+Package pdftex.def Info: Bilder/eulersolve.pdf, page1 used on input line 601.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [45 <./Bilder/eulersolve.pdf>]
+(./Cholera_haiti.aux) ) 
 Here is how much of TeX's memory you used:
- 5317 strings out of 493633
- 76228 string characters out of 3143378
- 161225 words of memory out of 3000000
- 8495 multiletter control sequences out of 15000+200000
+ 5381 strings out of 493763
+ 77988 string characters out of 3144953
+ 161102 words of memory out of 3000000
+ 8549 multiletter control sequences out of 15000+200000
  14359 words of font info for 55 fonts, out of 3000000 for 9000
- 831 hyphenation exceptions out of 8191
- 42i,18n,46p,2017b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
-b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
-live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
-ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
-e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
-/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Cholera_haiti.pdf (28 pages, 2720314 bytes).
+ 715 hyphenation exceptions out of 8191
+ 42i,18n,47p,2017b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2010/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmex10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r17.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
+.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+
+Output written on Cholera_haiti.pdf (45 pages, 2856243 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
+ 344 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
